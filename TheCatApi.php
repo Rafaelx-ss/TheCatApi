@@ -2,7 +2,7 @@
 
 echo "🔄 Iniciando script... \n";
 
-require_once 'credentials.php';
+require_once 'Credentials.php';
 
 // Function to execute http request in php :)
 function ejecutarSolicitudHttp($url, $metodo, $headers = [])
