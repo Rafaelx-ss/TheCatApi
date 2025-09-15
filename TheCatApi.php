@@ -349,7 +349,7 @@ if (!empty($output)) {
         unlink($gc_log);
     }
 
-    exec("git remote set-url origin https://". GITHUB_TOKEN ."@github.com/". GITHUB_REPO .".git");
+    exec("git remote set-url origin https://". ENV_GITHUB_TOKEN ."@github.com/". ENV_GITHUB_REPO .".git");
 
     exec("git push --force origin main 2>&1", $push_output);
     echo implode("\n", $push_output) . "\n";

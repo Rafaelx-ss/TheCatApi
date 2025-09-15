@@ -1,11 +1,11 @@
 <?php
 
 $credentials = [
-    'githubToken' => getenv('GITHUB_TOKEN'),
-    'apiKey' => getenv('ACCESS_TOKEN'),
+    'githubToken' => getenv('ENV_GITHUB_TOKEN'),
+    'apiKey' => getenv('API_KEY'),
     'userName' => getenv('USER_NAME'),
     'userEmail' => getenv('USER_EMAIL'),
-    'githubRepo' => getenv('GITHUB_REPO'),
+    'githubRepo' => getenv('ENV_GITHUB_REPO'),
 ];
 
 foreach ($credentials as $key => $value) {
@@ -14,8 +14,8 @@ foreach ($credentials as $key => $value) {
     }
 }
 
-define('GITHUB_TOKEN', $credentials['githubToken']);
+define('ENV_GITHUB_TOKEN', $credentials['githubToken']);
 define('API_KEY', $credentials['apiKey']);
 define('USER_NAME', $credentials['userName']);
 define('USER_EMAIL', $credentials['userEmail']);
-define('GITHUB_REPO', $credentials['githubRepo']);
+define('ENV_GITHUB_REPO', $credentials['githubRepo']);

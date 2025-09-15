@@ -22,11 +22,11 @@ jobs:
 
       - name: Load .env variables
         run: |
-          echo "ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }}" >> $GITHUB_ENV
-          echo "GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
+          echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
+          echo "ENV_GITHUB_TOKEN=${{ secrets.ENV_GITHUB_TOKEN }}" >> $GITHUB_ENV
           echo "USER_NAME=${{ secrets.USER_NAME }}" >> $GITHUB_ENV
           echo "USER_EMAIL=${{ secrets.USER_EMAIL }}" >> $GITHUB_ENV
-          echo "GITHUB_REPO=${{ secrets.GITHUB_REPO }}" >> $GITHUB_ENV
+          echo "ENV_GITHUB_REPO=${{ secrets.ENV_GITHUB_REPO }}" >> $GITHUB_ENV
 
-      - name: Run TheApiCat PHP Script
-        run: php APICAT.PHP
+      - name: Run TheCatApi PHP Script
+        run: php TheCatApi.php
