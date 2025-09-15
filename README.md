@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 15, 2025 at 05:57:52`  
-> 🆔 **Cat ID:** `_qUK20W2d`  
-> 📐 **Image Dimensions:** `1080x1080px`
+> ✨ **Updated:** `September 15, 2025 at 20:14:53`  
+> 🆔 **Cat ID:** `P2NukwZ0n`  
+> 📐 **Image Dimensions:** `1200x795px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/_qUK20W2d.jpg" alt="Snowshoe Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/P2NukwZ0n.jpg" alt="Manx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Snowshoe**
-**📍 Origin:** United States  
-**⏳ Life Span:** 14 - 19 years  
-**🧬 Temperament:** Affectionate, Social, Intelligent, Sweet-tempered  
+### 🏷️ **Manx**
+> *Also known as: Manks, Stubbin, Rumpy*
+
+**📍 Origin:** Isle of Man  
+**⏳ Life Span:** 12 - 14 years  
+**🧬 Temperament:** Easy Going, Intelligent, Loyal, Playful, Social  
 
 ### 📖 Description
-> The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.
+> The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people.
 
 ---
 
@@ -36,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -50,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | Yes |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Snowshoe on Wikipedia](https://en.wikipedia.org/wiki/Snowshoe_(cat))**
+🔗 **[Read more about Manx on Wikipedia](https://en.wikipedia.org/wiki/Manx_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-09-15 05:57:52 UTC | Image ID: _qUK20W2d -->
+<!-- Generated automatically on 2025-09-15 20:14:53 UTC | Image ID: P2NukwZ0n -->
