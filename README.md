@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 5, 2025 at 20:13:55`  
-> 🆔 **Cat ID:** `0eVXT8_lb`  
-> 📐 **Image Dimensions:** `1396x1080px`
+> ✨ **Updated:** `October 6, 2025 at 20:15:04`  
+> 🆔 **Cat ID:** `BTiGuPOqW`  
+> 📐 **Image Dimensions:** `3264x2448px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/0eVXT8_lb.jpg" alt="Oriental Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/BTiGuPOqW.jpg" alt="Javanese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Oriental**
-> *Also known as: Foreign Type*
+### 🏷️ **Javanese**
+> *Also known as:  *
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
+**⏳ Life Span:** 10 - 12 years  
+**🧬 Temperament:** Active, Devoted, Intelligent, Playful  
 
 ### 📖 Description
-> Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
+> Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.
 
 ---
 
@@ -37,10 +37,10 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
 | ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Oriental on Wikipedia](https://en.wikipedia.org/wiki/Oriental_Shorthair)**
+🔗 **[Read more about Javanese on Wikipedia](https://en.wikipedia.org/wiki/Javanese_cat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 5, 2025`
+- 🔄 **Last Update:** `October 6, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-10-05 20:13:55 UTC | Image ID: 0eVXT8_lb -->
+<!-- Generated automatically on 2025-10-06 20:15:04 UTC | Image ID: BTiGuPOqW -->
