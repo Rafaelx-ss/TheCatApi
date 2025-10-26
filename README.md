@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 25, 2025 at 20:14:31`  
-> 🆔 **Cat ID:** `zyW4wflo3`  
-> 📐 **Image Dimensions:** `665x1000px`
+> ✨ **Updated:** `October 26, 2025 at 20:14:54`  
+> 🆔 **Cat ID:** `7TcOPE3SC`  
+> 📐 **Image Dimensions:** `750x410px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/zyW4wflo3.jpg" alt="Maine Coon Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/7TcOPE3SC.jpg" alt="Himalayan Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Maine Coon**
-> *Also known as: Coon Cat, Maine Cat, Maine Shag, Snowshoe Cat, American Longhair, The Gentle Giants*
+### 🏷️ **Himalayan**
+> *Also known as: Himalayan Persian, Colourpoint Persian, Longhaired Colourpoint, Himmy*
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Adaptable, Intelligent, Loving, Gentle, Independent  
+**⏳ Life Span:** 9 - 15 years  
+**🧬 Temperament:** Dependent, Gentle, Intelligent, Quiet, Social  
 
 ### 📖 Description
-> They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.
+> Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
+| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Maine Coon on Wikipedia](https://en.wikipedia.org/wiki/Maine_Coon)**
+🔗 **[Read more about Himalayan on Wikipedia](https://en.wikipedia.org/wiki/Himalayan_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 25, 2025`
+- 🔄 **Last Update:** `October 26, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-10-25 20:14:31 UTC | Image ID: zyW4wflo3 -->
+<!-- Generated automatically on 2025-10-26 20:14:54 UTC | Image ID: 7TcOPE3SC -->
