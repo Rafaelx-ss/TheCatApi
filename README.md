@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 27, 2025 at 20:13:29`  
-> 🆔 **Cat ID:** `VuxDCG8hV`  
-> 📐 **Image Dimensions:** `1920x902px`
+> ✨ **Updated:** `October 28, 2025 at 20:16:51`  
+> 🆔 **Cat ID:** `a_j82joTy`  
+> 📐 **Image Dimensions:** `1365x2048px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/VuxDCG8hV.jpg" alt="LaPerm Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/a_j82joTy.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **LaPerm**
-> *Also known as: Si-Sawat*
+### 🏷️ **Somali**
+> *Also known as: Fox Cat, Long-Haired Abyssinian*
 
-**📍 Origin:** Thailand  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet  
+**📍 Origin:** Somalia  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal  
 
 ### 📖 Description
-> LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.
+> The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
 
 ---
 
@@ -38,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -51,13 +51,13 @@
 | Trait | Status | Trait | Status |
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | Yes 🌀 |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about LaPerm on Wikipedia](https://en.wikipedia.org/wiki/LaPerm)**
+🔗 **[Read more about Somali on Wikipedia](https://en.wikipedia.org/wiki/Somali_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 27, 2025`
+- 🔄 **Last Update:** `October 28, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-10-27 20:13:29 UTC | Image ID: VuxDCG8hV -->
+<!-- Generated automatically on 2025-10-28 20:16:51 UTC | Image ID: a_j82joTy -->
