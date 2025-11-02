@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 1, 2025 at 20:13:31`  
-> 🆔 **Cat ID:** `Rscv6E1c5`  
-> 📐 **Image Dimensions:** `1200x900px`
+> ✨ **Updated:** `November 2, 2025 at 20:13:50`  
+> 🆔 **Cat ID:** `TzyZJUeIM`  
+> 📐 **Image Dimensions:** `900x1137px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Rscv6E1c5.jpg" alt="Manx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/TzyZJUeIM.jpg" alt="Birman Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Manx**
-> *Also known as: Manks, Stubbin, Rumpy*
+### 🏷️ **Birman**
+> *Also known as: Sacred Birman, Sacred Cat Of Burma*
 
-**📍 Origin:** Isle of Man  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Easy Going, Intelligent, Loyal, Playful, Social  
+**📍 Origin:** France  
+**⏳ Life Span:** 14 - 15 years  
+**🧬 Temperament:** Affectionate, Active, Gentle, Social  
 
 ### 📖 Description
-> The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people.
+> The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | Yes |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Manx on Wikipedia](https://en.wikipedia.org/wiki/Manx_(cat))**
+🔗 **[Read more about Birman on Wikipedia](https://en.wikipedia.org/wiki/Birman)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 1, 2025`
+- 🔄 **Last Update:** `November 2, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-11-01 20:13:31 UTC | Image ID: Rscv6E1c5 -->
+<!-- Generated automatically on 2025-11-02 20:13:50 UTC | Image ID: TzyZJUeIM -->
