@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 12, 2025 at 20:16:44`  
-> 🆔 **Cat ID:** `62Onx4gRb`  
-> 📐 **Image Dimensions:** `1024x1024px`
+> ✨ **Updated:** `November 13, 2025 at 20:16:54`  
+> 🆔 **Cat ID:** `VsaXX13yt`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/62Onx4gRb.jpg" alt="Savannah Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/VsaXX13yt.jpg" alt="Siamese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Savannah**
-**📍 Origin:** United States  
-**⏳ Life Span:** 17 - 20 years  
-**🧬 Temperament:** Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate  
+### 🏷️ **Siamese**
+> *Also known as: Siam, Thai Cat*
+
+**📍 Origin:** Thailand  
+**⏳ Life Span:** 12 - 15 years  
+**🧬 Temperament:** Active, Agile, Clever, Sociable, Loving, Energetic  
 
 ### 📖 Description
-> Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.
+> While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
 
 ---
 
@@ -36,10 +38,10 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
 | ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
@@ -48,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | Yes 🧪 | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Savannah on Wikipedia](https://en.wikipedia.org/wiki/Savannah_cat)**
+🔗 **[Read more about Siamese on Wikipedia](https://en.wikipedia.org/wiki/Siamese_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 12, 2025`
+- 🔄 **Last Update:** `November 13, 2025`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-11-12 20:16:44 UTC | Image ID: 62Onx4gRb -->
+<!-- Generated automatically on 2025-11-13 20:16:54 UTC | Image ID: VsaXX13yt -->
