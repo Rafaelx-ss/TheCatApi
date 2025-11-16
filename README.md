@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 15, 2025 at 20:14:12`  
-> 🆔 **Cat ID:** `6P42aYVha`  
-> 📐 **Image Dimensions:** `1201x800px`
+> ✨ **Updated:** `November 16, 2025 at 20:15:01`  
+> 🆔 **Cat ID:** `ixXGyLmIW`  
+> 📐 **Image Dimensions:** `2500x1494px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/6P42aYVha.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/ixXGyLmIW.jpg" alt="Exotic Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Scottish Fold**
-> *Also known as: Scot Fold*
+### 🏷️ **Exotic Shorthair**
+> *Also known as: Exotic*
 
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11 - 14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving  
+**📍 Origin:** United States  
+**⏳ Life Span:** 12 - 15 years  
+**🧬 Temperament:** Affectionate, Sweet, Loyal, Quiet, Peaceful  
 
 ### 📖 Description
-> The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
+> The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
 
 ---
 
@@ -38,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Scottish Fold on Wikipedia](https://en.wikipedia.org/wiki/Scottish_Fold)**
+🔗 **[Read more about Exotic Shorthair on Wikipedia](https://en.wikipedia.org/wiki/Exotic_Shorthair)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 15, 2025`
+- 🔄 **Last Update:** `November 16, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-11-15 20:14:12 UTC | Image ID: 6P42aYVha -->
+<!-- Generated automatically on 2025-11-16 20:15:01 UTC | Image ID: ixXGyLmIW -->
