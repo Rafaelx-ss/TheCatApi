@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 19, 2025 at 20:14:44`  
-> 🆔 **Cat ID:** `WE47Mw166`  
-> 📐 **Image Dimensions:** `750x750px`
+> ✨ **Updated:** `November 20, 2025 at 20:16:44`  
+> 🆔 **Cat ID:** `4_AdeyZUv`  
+> 📐 **Image Dimensions:** `3888x2592px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/WE47Mw166.jpg" alt="Turkish Angora Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/4_AdeyZUv.jpg" alt="Egyptian Mau Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Turkish Angora**
-> *Also known as: Ankara*
+### 🏷️ **Egyptian Mau**
+> *Also known as: Pharaoh Cat*
 
-**📍 Origin:** Turkey  
-**⏳ Life Span:** 15 - 18 years  
-**🧬 Temperament:** Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social  
+**📍 Origin:** Egypt  
+**⏳ Life Span:** 18 - 20 years  
+**🧬 Temperament:** Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful  
 
 ### 📖 Description
-> This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to
+> The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| 🏠 **Adaptability** | ⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Turkish Angora on Wikipedia](https://en.wikipedia.org/wiki/Turkish_Angora)**
+🔗 **[Read more about Egyptian Mau on Wikipedia](https://en.wikipedia.org/wiki/Egyptian_Mau)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 19, 2025`
+- 🔄 **Last Update:** `November 20, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-11-19 20:14:44 UTC | Image ID: WE47Mw166 -->
+<!-- Generated automatically on 2025-11-20 20:16:44 UTC | Image ID: 4_AdeyZUv -->
