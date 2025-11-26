@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 25, 2025 at 20:16:29`  
-> 🆔 **Cat ID:** `z77nP6EHh`  
-> 📐 **Image Dimensions:** `5184x3456px`
+> ✨ **Updated:** `November 26, 2025 at 20:16:14`  
+> 🆔 **Cat ID:** `uTFc4z0wP`  
+> 📐 **Image Dimensions:** `1080x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/z77nP6EHh.jpg" alt="Himalayan Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/uTFc4z0wP.jpg" alt="Snowshoe Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Himalayan**
-> *Also known as: Himalayan Persian, Colourpoint Persian, Longhaired Colourpoint, Himmy*
-
+### 🏷️ **Snowshoe**
 **📍 Origin:** United States  
-**⏳ Life Span:** 9 - 15 years  
-**🧬 Temperament:** Dependent, Gentle, Intelligent, Quiet, Social  
+**⏳ Life Span:** 14 - 19 years  
+**🧬 Temperament:** Affectionate, Social, Intelligent, Sweet-tempered  
 
 ### 📖 Description
-> Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
+> The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.
 
 ---
 
@@ -37,12 +35,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +55,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Himalayan on Wikipedia](https://en.wikipedia.org/wiki/Himalayan_(cat))**
+🔗 **[Read more about Snowshoe on Wikipedia](https://en.wikipedia.org/wiki/Snowshoe_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 25, 2025`
+- 🔄 **Last Update:** `November 26, 2025`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-11-25 20:16:29 UTC | Image ID: z77nP6EHh -->
+<!-- Generated automatically on 2025-11-26 20:16:14 UTC | Image ID: uTFc4z0wP -->
