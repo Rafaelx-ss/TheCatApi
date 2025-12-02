@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 1, 2025 at 20:15:09`  
-> 🆔 **Cat ID:** `3ZLqhbgiw`  
-> 📐 **Image Dimensions:** `750x536px`
+> ✨ **Updated:** `December 2, 2025 at 20:18:32`  
+> 🆔 **Cat ID:** `E4j4aBDx9`  
+> 📐 **Image Dimensions:** `2368x1590px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/3ZLqhbgiw.jpg" alt="Maine Coon Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/E4j4aBDx9.jpg" alt="Chantilly-Tiffany Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Maine Coon**
-> *Also known as: Coon Cat, Maine Cat, Maine Shag, Snowshoe Cat, American Longhair, The Gentle Giants*
+### 🏷️ **Chantilly-Tiffany**
+> *Also known as: Chantilly, Foreign Longhair*
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Adaptable, Intelligent, Loving, Gentle, Independent  
+**⏳ Life Span:** 14 - 16 years  
+**🧬 Temperament:** Affectionate, Demanding, Interactive, Loyal  
 
 ### 📖 Description
-> They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.
+> The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will "chirp" and "talk" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.
 
 ---
 
@@ -38,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Maine Coon on Wikipedia](https://en.wikipedia.org/wiki/Maine_Coon)**
+🔗 **[Read more about Chantilly-Tiffany on Wikipedia](https://en.wikipedia.org/wiki/Chantilly-Tiffany)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 1, 2025`
+- 🔄 **Last Update:** `December 2, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-01 20:15:09 UTC | Image ID: 3ZLqhbgiw -->
+<!-- Generated automatically on 2025-12-02 20:18:32 UTC | Image ID: E4j4aBDx9 -->
