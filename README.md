@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 2, 2025 at 20:18:32`  
-> 🆔 **Cat ID:** `E4j4aBDx9`  
-> 📐 **Image Dimensions:** `2368x1590px`
+> ✨ **Updated:** `December 3, 2025 at 20:17:34`  
+> 🆔 **Cat ID:** `Tbc8_VStM`  
+> 📐 **Image Dimensions:** `1500x996px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/E4j4aBDx9.jpg" alt="Chantilly-Tiffany Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Tbc8_VStM.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Chantilly-Tiffany**
-> *Also known as: Chantilly, Foreign Longhair*
+### 🏷️ **Scottish Fold**
+> *Also known as: Scot Fold*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 14 - 16 years  
-**🧬 Temperament:** Affectionate, Demanding, Interactive, Loyal  
+**📍 Origin:** United Kingdom  
+**⏳ Life Span:** 11 - 14 years  
+**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving  
 
 ### 📖 Description
-> The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will "chirp" and "talk" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.
+> The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶🪶 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Chantilly-Tiffany on Wikipedia](https://en.wikipedia.org/wiki/Chantilly-Tiffany)**
+🔗 **[Read more about Scottish Fold on Wikipedia](https://en.wikipedia.org/wiki/Scottish_Fold)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 2, 2025`
+- 🔄 **Last Update:** `December 3, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-02 20:18:32 UTC | Image ID: E4j4aBDx9 -->
+<!-- Generated automatically on 2025-12-03 20:17:34 UTC | Image ID: Tbc8_VStM -->
