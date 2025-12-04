@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 3, 2025 at 20:17:34`  
-> 🆔 **Cat ID:** `Tbc8_VStM`  
-> 📐 **Image Dimensions:** `1500x996px`
+> ✨ **Updated:** `December 4, 2025 at 20:17:28`  
+> 🆔 **Cat ID:** `t8oArUO-L`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Tbc8_VStM.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/t8oArUO-L.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Scottish Fold**
-> *Also known as: Scot Fold*
+### 🏷️ **Tonkinese**
+> *Also known as: Tonk*
 
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11 - 14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving  
+**📍 Origin:** Canada  
+**⏳ Life Span:** 14 - 16 years  
+**🧬 Temperament:** Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate  
 
 ### 📖 Description
-> The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
+> Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Scottish Fold on Wikipedia](https://en.wikipedia.org/wiki/Scottish_Fold)**
+🔗 **[Read more about Tonkinese on Wikipedia](https://en.wikipedia.org/wiki/Tonkinese_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 3, 2025`
+- 🔄 **Last Update:** `December 4, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-03 20:17:34 UTC | Image ID: Tbc8_VStM -->
+<!-- Generated automatically on 2025-12-04 20:17:28 UTC | Image ID: t8oArUO-L -->
