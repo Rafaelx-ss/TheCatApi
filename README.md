@@ -7,14 +7,14 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 4, 2025 at 20:17:28`  
-> 🆔 **Cat ID:** `t8oArUO-L`  
-> 📐 **Image Dimensions:** `750x750px`
+> ✨ **Updated:** `December 5, 2025 at 20:16:58`  
+> 🆔 **Cat ID:** `Vb2JphRL3`  
+> 📐 **Image Dimensions:** `1080x1183px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/t8oArUO-L.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Vb2JphRL3.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 4, 2025`
+- 🔄 **Last Update:** `December 5, 2025`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-04 20:17:28 UTC | Image ID: t8oArUO-L -->
+<!-- Generated automatically on 2025-12-05 20:16:58 UTC | Image ID: Vb2JphRL3 -->
