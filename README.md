@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 7, 2025 at 20:15:10`  
-> 🆔 **Cat ID:** `DSsW2Fl2d`  
-> 📐 **Image Dimensions:** `2560x1919px`
+> ✨ **Updated:** `December 8, 2025 at 20:17:48`  
+> 🆔 **Cat ID:** `njaF1fyqI`  
+> 📐 **Image Dimensions:** `1080x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/DSsW2Fl2d.jpg" alt="Exotic Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/njaF1fyqI.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Exotic Shorthair**
-> *Also known as: Exotic*
-
+### 🏷️ **Munchkin**
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Affectionate, Sweet, Loyal, Quiet, Peaceful  
+**⏳ Life Span:** 10 - 15 years  
+**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful  
 
 ### 📖 Description
-> The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
+> The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
 
 ---
 
@@ -37,11 +35,11 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
 | ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
@@ -52,12 +50,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | Yes 🦵 |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Exotic Shorthair on Wikipedia](https://en.wikipedia.org/wiki/Exotic_Shorthair)**
+🔗 **[Read more about Munchkin on Wikipedia](https://en.wikipedia.org/wiki/Munchkin_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 7, 2025`
+- 🔄 **Last Update:** `December 8, 2025`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-07 20:15:10 UTC | Image ID: DSsW2Fl2d -->
+<!-- Generated automatically on 2025-12-08 20:17:48 UTC | Image ID: njaF1fyqI -->
