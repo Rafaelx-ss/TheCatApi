@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 8, 2025 at 20:17:48`  
-> 🆔 **Cat ID:** `njaF1fyqI`  
-> 📐 **Image Dimensions:** `1080x1080px`
+> ✨ **Updated:** `December 10, 2025 at 20:17:45`  
+> 🆔 **Cat ID:** `--YZl1YWO`  
+> 📐 **Image Dimensions:** `1440x1585px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/njaF1fyqI.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/--YZl1YWO.jpg" alt="Ragamuffin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Munchkin**
+### 🏷️ **Ragamuffin**
 **📍 Origin:** United States  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Affectionate, Friendly, Gentle, Calm  
 
 ### 📖 Description
-> The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
+> The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.
 
 ---
 
@@ -37,10 +37,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -50,12 +50,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | Yes 🦵 |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Munchkin on Wikipedia](https://en.wikipedia.org/wiki/Munchkin_(cat))**
+🔗 **[Read more about Ragamuffin on Wikipedia](https://en.wikipedia.org/wiki/Ragamuffin_cat)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 8, 2025`
+- 🔄 **Last Update:** `December 10, 2025`
 
 ---
 
@@ -129,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-08 20:17:48 UTC | Image ID: njaF1fyqI -->
+<!-- Generated automatically on 2025-12-10 20:17:45 UTC | Image ID: --YZl1YWO -->
