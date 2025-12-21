@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 20, 2025 at 20:15:08`  
-> 🆔 **Cat ID:** `EhOq2RbaI`  
-> 📐 **Image Dimensions:** `800x450px`
+> ✨ **Updated:** `December 21, 2025 at 20:15:41`  
+> 🆔 **Cat ID:** `HVP1wfZF0`  
+> 📐 **Image Dimensions:** `1600x1067px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/EhOq2RbaI.jpg" alt="Cheetoh Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/HVP1wfZF0.jpg" alt="American Curl Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Cheetoh**
-> *Also known as:  *
-
+### 🏷️ **American Curl**
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Affectionate, Gentle, Intelligent, Social  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social  
 
 ### 📖 Description
-> The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.
+> Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.
 
 ---
 
@@ -37,12 +35,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +55,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Cheetoh on Wikipedia](https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh)**
+🔗 **[Read more about American Curl on Wikipedia](https://en.wikipedia.org/wiki/American_Curl)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 20, 2025`
+- 🔄 **Last Update:** `December 21, 2025`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-20 20:15:08 UTC | Image ID: EhOq2RbaI -->
+<!-- Generated automatically on 2025-12-21 20:15:41 UTC | Image ID: HVP1wfZF0 -->
