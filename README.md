@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `December 22, 2025 at 20:16:48`  
-> 🆔 **Cat ID:** `THXQ9Nqie`  
-> 📐 **Image Dimensions:** `1080x940px`
+> ✨ **Updated:** `December 23, 2025 at 20:16:32`  
+> 🆔 **Cat ID:** `b2NdzJ36K`  
+> 📐 **Image Dimensions:** `1280x853px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/THXQ9Nqie.jpg" alt="Ragamuffin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/b2NdzJ36K.jpg" alt="Ragdoll Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Ragamuffin**
+### 🏷️ **Ragdoll**
+> *Also known as: Rag doll*
+
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 16 years  
-**🧬 Temperament:** Affectionate, Friendly, Gentle, Calm  
+**⏳ Life Span:** 12 - 17 years  
+**🧬 Temperament:** Affectionate, Friendly, Gentle, Quiet, Easygoing  
 
 ### 📖 Description
-> The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.
+> Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
 
 ---
 
@@ -35,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Ragamuffin on Wikipedia](https://en.wikipedia.org/wiki/Ragamuffin_cat)**
+🔗 **[Read more about Ragdoll on Wikipedia](https://en.wikipedia.org/wiki/Ragdoll)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `December 22, 2025`
+- 🔄 **Last Update:** `December 23, 2025`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2025-12-22 20:16:48 UTC | Image ID: THXQ9Nqie -->
+<!-- Generated automatically on 2025-12-23 20:16:32 UTC | Image ID: b2NdzJ36K -->
