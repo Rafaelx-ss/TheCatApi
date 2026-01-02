@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `January 1, 2026 at 20:17:44`  
-> 🆔 **Cat ID:** `RhBsBQg6y`  
-> 📐 **Image Dimensions:** `1200x800px`
+> ✨ **Updated:** `January 2, 2026 at 20:17:13`  
+> 🆔 **Cat ID:** `9tZCXEYzy`  
+> 📐 **Image Dimensions:** `1280x853px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/RhBsBQg6y.jpg" alt="Persian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/9tZCXEYzy.jpg" alt="Birman Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Persian**
-> *Also known as: Longhair, Persian Longhair, Shiraz, Shirazi*
+### 🏷️ **Birman**
+> *Also known as: Sacred Birman, Sacred Cat Of Burma*
 
-**📍 Origin:** Iran (Persia)  
+**📍 Origin:** France  
 **⏳ Life Span:** 14 - 15 years  
-**🧬 Temperament:** Affectionate, loyal, Sedate, Quiet  
+**🧬 Temperament:** Affectionate, Active, Gentle, Social  
 
 ### 📖 Description
-> Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.
+> The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
 
 ---
 
@@ -38,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Persian on Wikipedia](https://en.wikipedia.org/wiki/Persian_(cat))**
+🔗 **[Read more about Birman on Wikipedia](https://en.wikipedia.org/wiki/Birman)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `January 1, 2026`
+- 🔄 **Last Update:** `January 2, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-01-01 20:17:44 UTC | Image ID: RhBsBQg6y -->
+<!-- Generated automatically on 2026-01-02 20:17:13 UTC | Image ID: 9tZCXEYzy -->
