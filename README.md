@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `January 3, 2026 at 20:16:18`  
-> 🆔 **Cat ID:** `RatXeJPpY`  
-> 📐 **Image Dimensions:** `2048x1365px`
+> ✨ **Updated:** `January 4, 2026 at 20:16:55`  
+> 🆔 **Cat ID:** `Nw-PtLQuk`  
+> 📐 **Image Dimensions:** `1200x900px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/RatXeJPpY.jpg" alt="Siberian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Nw-PtLQuk.jpg" alt="Nebelung Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Siberian**
-> *Also known as: Moscow Semi-longhair, HairSiberian Forest Cat*
+### 🏷️ **Nebelung**
+> *Also known as: Longhaired Russian Blue*
 
-**📍 Origin:** Russia  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate  
+**📍 Origin:** United States  
+**⏳ Life Span:** 11 - 16 years  
+**🧬 Temperament:** Gentle, Quiet, Shy, Playful  
 
 ### 📖 Description
-> The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
+> The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.
 
 ---
 
@@ -39,10 +39,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Siberian on Wikipedia](https://en.wikipedia.org/wiki/Siberian_(cat))**
+🔗 **[Read more about Nebelung on Wikipedia](https://en.wikipedia.org/wiki/Nebelung)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `January 3, 2026`
+- 🔄 **Last Update:** `January 4, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-01-03 20:16:18 UTC | Image ID: RatXeJPpY -->
+<!-- Generated automatically on 2026-01-04 20:16:55 UTC | Image ID: Nw-PtLQuk -->
