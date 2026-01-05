@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `January 4, 2026 at 20:16:55`  
-> 🆔 **Cat ID:** `Nw-PtLQuk`  
-> 📐 **Image Dimensions:** `1200x900px`
+> ✨ **Updated:** `January 5, 2026 at 20:18:55`  
+> 🆔 **Cat ID:** `bsr5KQSJ6`  
+> 📐 **Image Dimensions:** `2000x1331px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Nw-PtLQuk.jpg" alt="Nebelung Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/bsr5KQSJ6.jpg" alt="Norwegian Forest Cat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Nebelung**
-> *Also known as: Longhaired Russian Blue*
+### 🏷️ **Norwegian Forest Cat**
+> *Also known as: Skogkatt / Skaukatt, Norsk Skogkatt / Norsk Skaukatt, Weegie*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 11 - 16 years  
-**🧬 Temperament:** Gentle, Quiet, Shy, Playful  
+**📍 Origin:** Norway  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Sweet, Active, Intelligent, Social, Playful, Lively, Curious  
 
 ### 📖 Description
-> The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.
+> The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Nebelung on Wikipedia](https://en.wikipedia.org/wiki/Nebelung)**
+🔗 **[Read more about Norwegian Forest Cat on Wikipedia](https://en.wikipedia.org/wiki/Norwegian_Forest_Cat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `January 4, 2026`
+- 🔄 **Last Update:** `January 5, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-01-04 20:16:55 UTC | Image ID: Nw-PtLQuk -->
+<!-- Generated automatically on 2026-01-05 20:18:55 UTC | Image ID: bsr5KQSJ6 -->
