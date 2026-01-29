@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `January 28, 2026 at 20:22:45`  
-> 🆔 **Cat ID:** `J-vpF8e1N`  
-> 📐 **Image Dimensions:** `750x562px`
+> ✨ **Updated:** `January 29, 2026 at 20:23:14`  
+> 🆔 **Cat ID:** `ARDeFqhkl`  
+> 📐 **Image Dimensions:** `1250x650px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/J-vpF8e1N.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/ARDeFqhkl.jpg" alt="Egyptian Mau Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Sphynx**
-> *Also known as: Canadian Hairless, Canadian Sphynx*
+### 🏷️ **Egyptian Mau**
+> *Also known as: Pharaoh Cat*
 
-**📍 Origin:** Canada  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle  
+**📍 Origin:** Egypt  
+**⏳ Life Span:** 18 - 20 years  
+**🧬 Temperament:** Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful  
 
 ### 📖 Description
-> The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
+> The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
-| 🦲 **Hairless** | Yes 🦲 | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Sphynx on Wikipedia](https://en.wikipedia.org/wiki/Sphynx_(cat))**
+🔗 **[Read more about Egyptian Mau on Wikipedia](https://en.wikipedia.org/wiki/Egyptian_Mau)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `January 28, 2026`
+- 🔄 **Last Update:** `January 29, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-01-28 20:22:45 UTC | Image ID: J-vpF8e1N -->
+<!-- Generated automatically on 2026-01-29 20:23:14 UTC | Image ID: ARDeFqhkl -->
