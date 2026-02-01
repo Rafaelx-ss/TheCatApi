@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `January 31, 2026 at 20:18:40`  
-> 🆔 **Cat ID:** `k8T7xGG5O`  
-> 📐 **Image Dimensions:** `1080x1350px`
+> ✨ **Updated:** `February 1, 2026 at 20:18:47`  
+> 🆔 **Cat ID:** `GOvziuOyw`  
+> 📐 **Image Dimensions:** `3309x2482px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/k8T7xGG5O.jpg" alt="Korat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/GOvziuOyw.jpg" alt="Singapura Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Korat**
-**📍 Origin:** Thailand  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Active, Loyal, highly intelligent, Expressive, Trainable  
+### 🏷️ **Singapura**
+> *Also known as: Drain Cat, Kucinta, Pura*
+
+**📍 Origin:** Singapore  
+**⏳ Life Span:** 12 - 15 years  
+**🧬 Temperament:** Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal  
 
 ### 📖 Description
-> The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.
+> The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge
 
 ---
 
@@ -38,8 +40,8 @@
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
 | ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
@@ -48,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Korat on Wikipedia](https://en.wikipedia.org/wiki/Korat)**
+🔗 **[Read more about Singapura on Wikipedia](https://en.wikipedia.org/wiki/Singapura_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `January 31, 2026`
+- 🔄 **Last Update:** `February 1, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-01-31 20:18:40 UTC | Image ID: k8T7xGG5O -->
+<!-- Generated automatically on 2026-02-01 20:18:47 UTC | Image ID: GOvziuOyw -->
