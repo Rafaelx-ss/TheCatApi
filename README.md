@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `February 5, 2026 at 20:26:41`  
-> 🆔 **Cat ID:** `mCbyxNhMR`  
-> 📐 **Image Dimensions:** `550x750px`
+> ✨ **Updated:** `February 6, 2026 at 20:26:35`  
+> 🆔 **Cat ID:** `IOjBCPLXA`  
+> 📐 **Image Dimensions:** `2048x1536px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/mCbyxNhMR.jpg" alt="Balinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/IOjBCPLXA.jpg" alt="Savannah Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Balinese**
-> *Also known as: Long-haired Siamese*
-
+### 🏷️ **Savannah**
 **📍 Origin:** United States  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Affectionate, Intelligent, Playful  
+**⏳ Life Span:** 17 - 20 years  
+**🧬 Temperament:** Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate  
 
 ### 📖 Description
-> Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. 
+> Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.
 
 ---
 
@@ -41,8 +39,8 @@
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -50,14 +48,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | Yes 🧪 | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Balinese on Wikipedia](https://en.wikipedia.org/wiki/Balinese_(cat))**
+🔗 **[Read more about Savannah on Wikipedia](https://en.wikipedia.org/wiki/Savannah_cat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `February 5, 2026`
+- 🔄 **Last Update:** `February 6, 2026`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-02-05 20:26:41 UTC | Image ID: mCbyxNhMR -->
+<!-- Generated automatically on 2026-02-06 20:26:35 UTC | Image ID: IOjBCPLXA -->
