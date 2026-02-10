@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `February 9, 2026 at 20:33:03`  
-> 🆔 **Cat ID:** `R68eywp-W`  
-> 📐 **Image Dimensions:** `1024x768px`
+> ✨ **Updated:** `February 10, 2026 at 20:37:34`  
+> 🆔 **Cat ID:** `QAWwhRFCG`  
+> 📐 **Image Dimensions:** `900x675px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/R68eywp-W.jpg" alt="Japanese Bobtail Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/QAWwhRFCG.jpg" alt="Siberian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Japanese Bobtail**
-> *Also known as: Japanese Truncated Cat*
+### 🏷️ **Siberian**
+> *Also known as: Moscow Semi-longhair, HairSiberian Forest Cat*
 
-**📍 Origin:** Japan  
-**⏳ Life Span:** 14 - 16 years  
-**🧬 Temperament:** Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social  
+**📍 Origin:** Russia  
+**⏳ Life Span:** 12 - 15 years  
+**🧬 Temperament:** Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate  
 
 ### 📖 Description
-> The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.
+> The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. 
 
 ---
 
@@ -39,10 +39,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -53,11 +53,11 @@
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | Yes |
+| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Japanese Bobtail on Wikipedia](https://en.wikipedia.org/wiki/Japanese_Bobtail)**
+🔗 **[Read more about Siberian on Wikipedia](https://en.wikipedia.org/wiki/Siberian_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `February 9, 2026`
+- 🔄 **Last Update:** `February 10, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-02-09 20:33:03 UTC | Image ID: R68eywp-W -->
+<!-- Generated automatically on 2026-02-10 20:37:34 UTC | Image ID: QAWwhRFCG -->
