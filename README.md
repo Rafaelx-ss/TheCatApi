@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `February 23, 2026 at 20:38:09`  
-> 🆔 **Cat ID:** `gMjW5RYB0`  
-> 📐 **Image Dimensions:** `1280x1280px`
+> ✨ **Updated:** `February 24, 2026 at 20:27:59`  
+> 🆔 **Cat ID:** `lJHXU7DlQ`  
+> 📐 **Image Dimensions:** `3264x2448px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/gMjW5RYB0.jpg" alt="Cornish Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/lJHXU7DlQ.jpg" alt="Devon Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Cornish Rex**
+### 🏷️ **Devon Rex**
+> *Also known as: Pixie cat, Alien cat, Poodle cat*
+
 **📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11 - 14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Active, Curious, Playful  
+**⏳ Life Span:** 10 - 15 years  
+**🧬 Temperament:** Highly interactive, Mischievous, Loyal, Social, Playful  
 
 ### 📖 Description
-> This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. 
+> The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.
 
 ---
 
@@ -38,9 +40,9 @@
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Cornish Rex on Wikipedia](https://en.wikipedia.org/wiki/Cornish_Rex)**
+🔗 **[Read more about Devon Rex on Wikipedia](https://en.wikipedia.org/wiki/Devon_Rex)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `February 23, 2026`
+- 🔄 **Last Update:** `February 24, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-02-23 20:38:09 UTC | Image ID: gMjW5RYB0 -->
+<!-- Generated automatically on 2026-02-24 20:27:59 UTC | Image ID: lJHXU7DlQ -->
