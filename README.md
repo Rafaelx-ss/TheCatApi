@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `March 6, 2026 at 20:25:02`  
-> 🆔 **Cat ID:** `DgBqcmqpc`  
-> 📐 **Image Dimensions:** `994x1350px`
+> ✨ **Updated:** `March 7, 2026 at 20:18:07`  
+> 🆔 **Cat ID:** `Kq8__jmkT`  
+> 📐 **Image Dimensions:** `1527x1286px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/DgBqcmqpc.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Kq8__jmkT.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Sphynx**
-> *Also known as: Canadian Hairless, Canadian Sphynx*
-
-**📍 Origin:** Canada  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle  
+### 🏷️ **Abyssinian**
+**📍 Origin:** Egypt  
+**⏳ Life Span:** 14 - 15 years  
+**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle  
 
 ### 📖 Description
-> The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
+> The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
 
 ---
 
@@ -38,11 +36,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -50,14 +48,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
-| 🦲 **Hairless** | Yes 🦲 | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Sphynx on Wikipedia](https://en.wikipedia.org/wiki/Sphynx_(cat))**
+🔗 **[Read more about Abyssinian on Wikipedia](https://en.wikipedia.org/wiki/Abyssinian_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `March 6, 2026`
+- 🔄 **Last Update:** `March 7, 2026`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-03-06 20:25:02 UTC | Image ID: DgBqcmqpc -->
+<!-- Generated automatically on 2026-03-07 20:18:07 UTC | Image ID: Kq8__jmkT -->
