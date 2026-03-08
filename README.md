@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `March 7, 2026 at 20:18:07`  
-> 🆔 **Cat ID:** `Kq8__jmkT`  
-> 📐 **Image Dimensions:** `1527x1286px`
+> ✨ **Updated:** `March 8, 2026 at 20:18:44`  
+> 🆔 **Cat ID:** `wUxNIew6I`  
+> 📐 **Image Dimensions:** `1280x1920px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Kq8__jmkT.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/wUxNIew6I.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Abyssinian**
-**📍 Origin:** Egypt  
-**⏳ Life Span:** 14 - 15 years  
-**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle  
+### 🏷️ **Somali**
+> *Also known as: Fox Cat, Long-Haired Abyssinian*
+
+**📍 Origin:** Somalia  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal  
 
 ### 📖 Description
-> The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
+> The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
 
 ---
 
@@ -36,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -50,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Abyssinian on Wikipedia](https://en.wikipedia.org/wiki/Abyssinian_(cat))**
+🔗 **[Read more about Somali on Wikipedia](https://en.wikipedia.org/wiki/Somali_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `March 7, 2026`
+- 🔄 **Last Update:** `March 8, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-03-07 20:18:07 UTC | Image ID: Kq8__jmkT -->
+<!-- Generated automatically on 2026-03-08 20:18:44 UTC | Image ID: wUxNIew6I -->
