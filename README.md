@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `March 11, 2026 at 20:27:32`  
-> 🆔 **Cat ID:** `JAx-08Y0n`  
-> 📐 **Image Dimensions:** `1280x853px`
+> ✨ **Updated:** `March 12, 2026 at 20:27:44`  
+> 🆔 **Cat ID:** `Z0X1tZQIt`  
+> 📐 **Image Dimensions:** `1138x1196px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/JAx-08Y0n.jpg" alt="Ocicat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Z0X1tZQIt.jpg" alt="Selkirk Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Ocicat**
+### 🏷️ **Selkirk Rex**
+> *Also known as: Shepherd Cat*
+
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social  
+**⏳ Life Span:** 14 - 15 years  
+**🧬 Temperament:** Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social  
 
 ### 📖 Description
-> Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. 
+> The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. 
 
 ---
 
@@ -35,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
 
 ---
 
@@ -49,13 +51,13 @@
 | Trait | Status | Trait | Status |
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | Yes 🌀 |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Ocicat on Wikipedia](https://en.wikipedia.org/wiki/Ocicat)**
+🔗 **[Read more about Selkirk Rex on Wikipedia](https://en.wikipedia.org/wiki/Selkirk_Rex)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `March 11, 2026`
+- 🔄 **Last Update:** `March 12, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-03-11 20:27:32 UTC | Image ID: JAx-08Y0n -->
+<!-- Generated automatically on 2026-03-12 20:27:44 UTC | Image ID: Z0X1tZQIt -->
