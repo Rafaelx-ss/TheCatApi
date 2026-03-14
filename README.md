@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `March 13, 2026 at 20:27:14`  
-> 🆔 **Cat ID:** `MVQu5GSK1`  
-> 📐 **Image Dimensions:** `1080x1075px`
+> ✨ **Updated:** `March 14, 2026 at 20:20:33`  
+> 🆔 **Cat ID:** `aZii7hC77`  
+> 📐 **Image Dimensions:** `1200x800px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/MVQu5GSK1.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/aZii7hC77.jpg" alt="Bombay Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Scottish Fold**
-> *Also known as: Scot Fold*
+### 🏷️ **Bombay**
+> *Also known as: Small black Panther*
 
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11 - 14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving  
+**📍 Origin:** United States  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Affectionate, Dependent, Gentle, Intelligent, Playful  
 
 ### 📖 Description
-> The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
+> The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Scottish Fold on Wikipedia](https://en.wikipedia.org/wiki/Scottish_Fold)**
+🔗 **[Read more about Bombay on Wikipedia](https://en.wikipedia.org/wiki/Bombay_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `March 13, 2026`
+- 🔄 **Last Update:** `March 14, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-03-13 20:27:14 UTC | Image ID: MVQu5GSK1 -->
+<!-- Generated automatically on 2026-03-14 20:20:33 UTC | Image ID: aZii7hC77 -->
