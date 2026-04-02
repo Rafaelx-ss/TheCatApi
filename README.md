@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 1, 2026 at 20:37:56`  
-> 🆔 **Cat ID:** `FJ89mXP4p`  
-> 📐 **Image Dimensions:** `1920x1280px`
+> ✨ **Updated:** `April 2, 2026 at 20:28:55`  
+> 🆔 **Cat ID:** `9FEol9vDh`  
+> 📐 **Image Dimensions:** `3402x2268px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/FJ89mXP4p.jpg" alt="Balinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/9FEol9vDh.jpg" alt="Oriental Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Balinese**
-> *Also known as: Long-haired Siamese*
+### 🏷️ **Oriental**
+> *Also known as: Foreign Type*
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Affectionate, Intelligent, Playful  
+**⏳ Life Span:** 12 - 14 years  
+**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
 
 ### 📖 Description
-> Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. 
+> Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.
 
 ---
 
@@ -40,9 +40,9 @@
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Balinese on Wikipedia](https://en.wikipedia.org/wiki/Balinese_(cat))**
+🔗 **[Read more about Oriental on Wikipedia](https://en.wikipedia.org/wiki/Oriental_Shorthair)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 1, 2026`
+- 🔄 **Last Update:** `April 2, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-01 20:37:56 UTC | Image ID: FJ89mXP4p -->
+<!-- Generated automatically on 2026-04-02 20:28:55 UTC | Image ID: 9FEol9vDh -->
