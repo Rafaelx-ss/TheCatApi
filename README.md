@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 7, 2026 at 20:40:12`  
-> 🆔 **Cat ID:** `eF3HSMIB_`  
-> 📐 **Image Dimensions:** `1800x1592px`
+> ✨ **Updated:** `April 8, 2026 at 20:36:34`  
+> 🆔 **Cat ID:** `P-Zyb-4BZ`  
+> 📐 **Image Dimensions:** `1920x885px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/eF3HSMIB_.jpg" alt="Ragdoll Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/P-Zyb-4BZ.jpg" alt="Javanese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Ragdoll**
-> *Also known as: Rag doll*
+### 🏷️ **Javanese**
+> *Also known as:  *
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 17 years  
-**🧬 Temperament:** Affectionate, Friendly, Gentle, Quiet, Easygoing  
+**⏳ Life Span:** 10 - 12 years  
+**🧬 Temperament:** Active, Devoted, Intelligent, Playful  
 
 ### 📖 Description
-> Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
+> Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -53,11 +53,11 @@
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Ragdoll on Wikipedia](https://en.wikipedia.org/wiki/Ragdoll)**
+🔗 **[Read more about Javanese on Wikipedia](https://en.wikipedia.org/wiki/Javanese_cat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 7, 2026`
+- 🔄 **Last Update:** `April 8, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-07 20:40:12 UTC | Image ID: eF3HSMIB_ -->
+<!-- Generated automatically on 2026-04-08 20:36:34 UTC | Image ID: P-Zyb-4BZ -->
