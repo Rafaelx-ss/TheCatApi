@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 11, 2026 at 20:25:40`  
-> 🆔 **Cat ID:** `O4yjcTJOh`  
+> ✨ **Updated:** `April 12, 2026 at 20:28:18`  
+> 🆔 **Cat ID:** `1TcC-kiI1`  
 > 📐 **Image Dimensions:** `1080x1350px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/O4yjcTJOh.jpg" alt="Siamese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/1TcC-kiI1.jpg" alt="Korat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Siamese**
-> *Also known as: Siam, Thai Cat*
-
+### 🏷️ **Korat**
 **📍 Origin:** Thailand  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Active, Agile, Clever, Sociable, Loving, Energetic  
+**⏳ Life Span:** 10 - 15 years  
+**🧬 Temperament:** Active, Loyal, highly intelligent, Expressive, Trainable  
 
 ### 📖 Description
-> While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+> The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.
 
 ---
 
@@ -38,10 +36,10 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
 | ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
@@ -50,14 +48,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Siamese on Wikipedia](https://en.wikipedia.org/wiki/Siamese_(cat))**
+🔗 **[Read more about Korat on Wikipedia](https://en.wikipedia.org/wiki/Korat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 11, 2026`
+- 🔄 **Last Update:** `April 12, 2026`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-11 20:25:40 UTC | Image ID: O4yjcTJOh -->
+<!-- Generated automatically on 2026-04-12 20:28:18 UTC | Image ID: 1TcC-kiI1 -->
