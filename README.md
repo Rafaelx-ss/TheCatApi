@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 21, 2026 at 20:42:44`  
-> 🆔 **Cat ID:** `xplMlG1PT`  
-> 📐 **Image Dimensions:** `2048x1132px`
+> ✨ **Updated:** `April 22, 2026 at 20:46:39`  
+> 🆔 **Cat ID:** `W3fUcHI8z`  
+> 📐 **Image Dimensions:** `925x768px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/xplMlG1PT.jpg" alt="British Longhair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/W3fUcHI8z.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **British Longhair**
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Affectionate, Easy Going, Independent, Intelligent, Loyal, Social  
+### 🏷️ **Munchkin**
+**📍 Origin:** United States  
+**⏳ Life Span:** 10 - 15 years  
+**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful  
 
 ### 📖 Description
-> The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.
+> The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.
 
 ---
 
@@ -36,11 +36,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -50,12 +50,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | Yes 🦵 |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about British Longhair on Wikipedia](https://en.wikipedia.org/wiki/British_Longhair)**
+🔗 **[Read more about Munchkin on Wikipedia](https://en.wikipedia.org/wiki/Munchkin_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 21, 2026`
+- 🔄 **Last Update:** `April 22, 2026`
 
 ---
 
@@ -129,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-21 20:42:44 UTC | Image ID: xplMlG1PT -->
+<!-- Generated automatically on 2026-04-22 20:46:39 UTC | Image ID: W3fUcHI8z -->
