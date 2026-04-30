@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 29, 2026 at 20:56:55`  
-> 🆔 **Cat ID:** `FCNqMC83P`  
-> 📐 **Image Dimensions:** `1083x971px`
+> ✨ **Updated:** `April 30, 2026 at 20:53:41`  
+> 🆔 **Cat ID:** `q95bpC4ct`  
+> 📐 **Image Dimensions:** `1080x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/FCNqMC83P.jpg" alt="Exotic Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/q95bpC4ct.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Exotic Shorthair**
-> *Also known as: Exotic*
+### 🏷️ **Tonkinese**
+> *Also known as: Tonk*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Affectionate, Sweet, Loyal, Quiet, Peaceful  
+**📍 Origin:** Canada  
+**⏳ Life Span:** 14 - 16 years  
+**🧬 Temperament:** Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate  
 
 ### 📖 Description
-> The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.
+> Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Exotic Shorthair on Wikipedia](https://en.wikipedia.org/wiki/Exotic_Shorthair)**
+🔗 **[Read more about Tonkinese on Wikipedia](https://en.wikipedia.org/wiki/Tonkinese_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 29, 2026`
+- 🔄 **Last Update:** `April 30, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-29 20:56:55 UTC | Image ID: FCNqMC83P -->
+<!-- Generated automatically on 2026-04-30 20:53:41 UTC | Image ID: q95bpC4ct -->
