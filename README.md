@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `April 30, 2026 at 20:53:41`  
-> 🆔 **Cat ID:** `q95bpC4ct`  
-> 📐 **Image Dimensions:** `1080x1080px`
+> ✨ **Updated:** `May 1, 2026 at 20:43:19`  
+> 🆔 **Cat ID:** `7pCnjXd47`  
+> 📐 **Image Dimensions:** `1080x1350px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/q95bpC4ct.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/7pCnjXd47.jpg" alt="York Chocolate Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Tonkinese**
-> *Also known as: Tonk*
+### 🏷️ **York Chocolate**
+> *Also known as: York*
 
-**📍 Origin:** Canada  
-**⏳ Life Span:** 14 - 16 years  
-**🧬 Temperament:** Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate  
+**📍 Origin:** United States  
+**⏳ Life Span:** 13 - 15 years  
+**🧬 Temperament:** Playful, Social, Intelligent, Curious, Friendly  
 
 ### 📖 Description
-> Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat
+> York Chocolate cats are known to be true lap cats with a sweet temperament. They love to be cuddled and petted. Their curious nature makes them follow you all the time and participate in almost everything you do, even if it's related to water: unlike many other cats, York Chocolates love it.
 
 ---
 
@@ -39,10 +39,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
 | ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Tonkinese on Wikipedia](https://en.wikipedia.org/wiki/Tonkinese_(cat))**
+🔗 **[Read more about York Chocolate on Wikipedia](https://en.wikipedia.org/wiki/York_Chocolate)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `April 30, 2026`
+- 🔄 **Last Update:** `May 1, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-04-30 20:53:41 UTC | Image ID: q95bpC4ct -->
+<!-- Generated automatically on 2026-05-01 20:43:19 UTC | Image ID: 7pCnjXd47 -->
