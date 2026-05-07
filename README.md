@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `May 6, 2026 at 21:05:07`  
-> 🆔 **Cat ID:** `-R_ccKPYo`  
-> 📐 **Image Dimensions:** `1000x747px`
+> ✨ **Updated:** `May 7, 2026 at 20:59:43`  
+> 🆔 **Cat ID:** `2hPNn0Wrr`  
+> 📐 **Image Dimensions:** `3840x2160px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/-R_ccKPYo.jpg" alt="Persian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/2hPNn0Wrr.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Persian**
-> *Also known as: Longhair, Persian Longhair, Shiraz, Shirazi*
+### 🏷️ **Sphynx**
+> *Also known as: Canadian Hairless, Canadian Sphynx*
 
-**📍 Origin:** Iran (Persia)  
-**⏳ Life Span:** 14 - 15 years  
-**🧬 Temperament:** Affectionate, loyal, Sedate, Quiet  
+**📍 Origin:** Canada  
+**⏳ Life Span:** 12 - 14 years  
+**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle  
 
 ### 📖 Description
-> Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.
+> The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
+| 🦲 **Hairless** | Yes 🦲 | 🌀 **Rex Coat** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Persian on Wikipedia](https://en.wikipedia.org/wiki/Persian_(cat))**
+🔗 **[Read more about Sphynx on Wikipedia](https://en.wikipedia.org/wiki/Sphynx_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `May 6, 2026`
+- 🔄 **Last Update:** `May 7, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-05-06 21:05:07 UTC | Image ID: -R_ccKPYo -->
+<!-- Generated automatically on 2026-05-07 20:59:43 UTC | Image ID: 2hPNn0Wrr -->
