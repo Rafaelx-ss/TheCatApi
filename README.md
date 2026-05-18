@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `May 17, 2026 at 20:41:10`  
-> 🆔 **Cat ID:** `oGefY4YoG`  
-> 📐 **Image Dimensions:** `768x1024px`
+> ✨ **Updated:** `May 18, 2026 at 21:05:17`  
+> 🆔 **Cat ID:** `6jbkliQh5`  
+> 📐 **Image Dimensions:** `2048x1366px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/oGefY4YoG.jpg" alt="Ragdoll Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/6jbkliQh5.jpg" alt="Singapura Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Ragdoll**
-> *Also known as: Rag doll*
+### 🏷️ **Singapura**
+> *Also known as: Drain Cat, Kucinta, Pura*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 12 - 17 years  
-**🧬 Temperament:** Affectionate, Friendly, Gentle, Quiet, Easygoing  
+**📍 Origin:** Singapore  
+**⏳ Life Span:** 12 - 15 years  
+**🧬 Temperament:** Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal  
 
 ### 📖 Description
-> Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
+> The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Ragdoll on Wikipedia](https://en.wikipedia.org/wiki/Ragdoll)**
+🔗 **[Read more about Singapura on Wikipedia](https://en.wikipedia.org/wiki/Singapura_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `May 17, 2026`
+- 🔄 **Last Update:** `May 18, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-05-17 20:41:10 UTC | Image ID: oGefY4YoG -->
+<!-- Generated automatically on 2026-05-18 21:05:17 UTC | Image ID: 6jbkliQh5 -->
