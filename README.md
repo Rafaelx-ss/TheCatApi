@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `May 28, 2026 at 21:50:53`  
-> 🆔 **Cat ID:** `aJAsEA8uU`  
-> 📐 **Image Dimensions:** `1280x853px`
+> ✨ **Updated:** `May 29, 2026 at 21:48:25`  
+> 🆔 **Cat ID:** `aWVfoSN_K`  
+> 📐 **Image Dimensions:** `1080x1076px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/aJAsEA8uU.jpg" alt="Ocicat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/aWVfoSN_K.jpg" alt="Ragdoll Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Ocicat**
+### 🏷️ **Ragdoll**
+> *Also known as: Rag doll*
+
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social  
+**⏳ Life Span:** 12 - 17 years  
+**🧬 Temperament:** Affectionate, Friendly, Gentle, Quiet, Easygoing  
 
 ### 📖 Description
-> Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. 
+> Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
 
 ---
 
@@ -35,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -51,11 +53,11 @@
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Ocicat on Wikipedia](https://en.wikipedia.org/wiki/Ocicat)**
+🔗 **[Read more about Ragdoll on Wikipedia](https://en.wikipedia.org/wiki/Ragdoll)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `May 28, 2026`
+- 🔄 **Last Update:** `May 29, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-05-28 21:50:53 UTC | Image ID: aJAsEA8uU -->
+<!-- Generated automatically on 2026-05-29 21:48:25 UTC | Image ID: aWVfoSN_K -->
