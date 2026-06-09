@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `June 8, 2026 at 21:45:57`  
-> 🆔 **Cat ID:** `yFwzO96ds`  
-> 📐 **Image Dimensions:** `1200x776px`
+> ✨ **Updated:** `June 9, 2026 at 21:43:43`  
+> 🆔 **Cat ID:** `BDb8ZXb1v`  
+> 📐 **Image Dimensions:** `1600x1067px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/yFwzO96ds.jpg" alt="Devon Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/BDb8ZXb1v.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Devon Rex**
-> *Also known as: Pixie cat, Alien cat, Poodle cat*
+### 🏷️ **Sphynx**
+> *Also known as: Canadian Hairless, Canadian Sphynx*
 
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Highly interactive, Mischievous, Loyal, Social, Playful  
+**📍 Origin:** Canada  
+**⏳ Life Span:** 12 - 14 years  
+**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle  
 
 ### 📖 Description
-> The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.
+> The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
 
 ---
 
@@ -41,8 +41,8 @@
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
 | 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
 | 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | Yes 🌀 |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
+| 🦲 **Hairless** | Yes 🦲 | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Devon Rex on Wikipedia](https://en.wikipedia.org/wiki/Devon_Rex)**
+🔗 **[Read more about Sphynx on Wikipedia](https://en.wikipedia.org/wiki/Sphynx_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `June 8, 2026`
+- 🔄 **Last Update:** `June 9, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-06-08 21:45:57 UTC | Image ID: yFwzO96ds -->
+<!-- Generated automatically on 2026-06-09 21:43:43 UTC | Image ID: BDb8ZXb1v -->
