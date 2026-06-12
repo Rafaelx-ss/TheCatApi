@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `June 11, 2026 at 21:55:32`  
-> 🆔 **Cat ID:** `TGuAku7fM`  
-> 📐 **Image Dimensions:** `1920x1279px`
+> ✨ **Updated:** `June 12, 2026 at 21:26:21`  
+> 🆔 **Cat ID:** `5Kx7zbLN0`  
+> 📐 **Image Dimensions:** `1280x960px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/TGuAku7fM.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/5Kx7zbLN0.jpg" alt="Turkish Van Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Abyssinian**
-**📍 Origin:** Egypt  
-**⏳ Life Span:** 14 - 15 years  
-**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle  
+### 🏷️ **Turkish Van**
+> *Also known as: Turkish Cat, Swimming cat*
+
+**📍 Origin:** Turkey  
+**⏳ Life Span:** 12 - 17 years  
+**🧬 Temperament:** Agile, Intelligent, Loyal, Playful, Energetic  
 
 ### 📖 Description
-> The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
+> While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. 
 
 ---
 
@@ -36,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Abyssinian on Wikipedia](https://en.wikipedia.org/wiki/Abyssinian_(cat))**
+🔗 **[Read more about Turkish Van on Wikipedia](https://en.wikipedia.org/wiki/Turkish_Van)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `June 11, 2026`
+- 🔄 **Last Update:** `June 12, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-06-11 21:55:32 UTC | Image ID: TGuAku7fM -->
+<!-- Generated automatically on 2026-06-12 21:26:21 UTC | Image ID: 5Kx7zbLN0 -->
