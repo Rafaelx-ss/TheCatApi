@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `June 13, 2026 at 21:06:48`  
-> 🆔 **Cat ID:** `BDb8ZXb1v`  
-> 📐 **Image Dimensions:** `1600x1067px`
+> ✨ **Updated:** `June 14, 2026 at 21:04:04`  
+> 🆔 **Cat ID:** `t4f-Ov8YD`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/BDb8ZXb1v.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/t4f-Ov8YD.jpg" alt="Snowshoe Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Sphynx**
-> *Also known as: Canadian Hairless, Canadian Sphynx*
-
-**📍 Origin:** Canada  
-**⏳ Life Span:** 12 - 14 years  
-**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle  
+### 🏷️ **Snowshoe**
+**📍 Origin:** United States  
+**⏳ Life Span:** 14 - 19 years  
+**🧬 Temperament:** Affectionate, Social, Intelligent, Sweet-tempered  
 
 ### 📖 Description
-> The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.
+> The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.
 
 ---
 
@@ -38,11 +36,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -50,14 +48,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
-| 🦲 **Hairless** | Yes 🦲 | 🌀 **Rex Coat** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Sphynx on Wikipedia](https://en.wikipedia.org/wiki/Sphynx_(cat))**
+🔗 **[Read more about Snowshoe on Wikipedia](https://en.wikipedia.org/wiki/Snowshoe_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `June 13, 2026`
+- 🔄 **Last Update:** `June 14, 2026`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-06-13 21:06:48 UTC | Image ID: BDb8ZXb1v -->
+<!-- Generated automatically on 2026-06-14 21:04:04 UTC | Image ID: t4f-Ov8YD -->
