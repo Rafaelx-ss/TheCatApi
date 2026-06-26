@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `June 25, 2026 at 21:25:33`  
-> 🆔 **Cat ID:** `uywhSIAHr`  
-> 📐 **Image Dimensions:** `1280x720px`
+> ✨ **Updated:** `June 26, 2026 at 21:14:16`  
+> 🆔 **Cat ID:** `znCxQCEp4`  
+> 📐 **Image Dimensions:** `881x1280px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/uywhSIAHr.jpg" alt="Himalayan Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/znCxQCEp4.jpg" alt="Birman Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Himalayan**
-> *Also known as: Himalayan Persian, Colourpoint Persian, Longhaired Colourpoint, Himmy*
+### 🏷️ **Birman**
+> *Also known as: Sacred Birman, Sacred Cat Of Burma*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 9 - 15 years  
-**🧬 Temperament:** Dependent, Gentle, Intelligent, Quiet, Social  
+**📍 Origin:** France  
+**⏳ Life Span:** 14 - 15 years  
+**🧬 Temperament:** Affectionate, Active, Gentle, Social  
 
 ### 📖 Description
-> Calm and devoted, Himalayans make excellent companions, though they prefer a quieter home. They are playful in a sedate kind of way and enjoy having an assortment of toys. The Himalayan will stretch out next to you, sleep in your bed and even sit on your lap when she is in the mood.
+> The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.
 
 ---
 
@@ -38,11 +38,11 @@
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Himalayan on Wikipedia](https://en.wikipedia.org/wiki/Himalayan_(cat))**
+🔗 **[Read more about Birman on Wikipedia](https://en.wikipedia.org/wiki/Birman)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `June 25, 2026`
+- 🔄 **Last Update:** `June 26, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-06-25 21:25:33 UTC | Image ID: uywhSIAHr -->
+<!-- Generated automatically on 2026-06-26 21:14:16 UTC | Image ID: znCxQCEp4 -->
