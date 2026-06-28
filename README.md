@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `June 27, 2026 at 20:53:48`  
-> 🆔 **Cat ID:** `yLnM69IIz`  
-> 📐 **Image Dimensions:** `4368x2912px`
+> ✨ **Updated:** `June 28, 2026 at 20:54:50`  
+> 🆔 **Cat ID:** `yHZ1Cr6fd`  
+> 📐 **Image Dimensions:** `680x1244px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/yLnM69IIz.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/yHZ1Cr6fd.jpg" alt="Ragdoll Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Somali**
-> *Also known as: Fox Cat, Long-Haired Abyssinian*
+### 🏷️ **Ragdoll**
+> *Also known as: Rag doll*
 
-**📍 Origin:** Somalia  
-**⏳ Life Span:** 12 - 16 years  
-**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal  
+**📍 Origin:** United States  
+**⏳ Life Span:** 12 - 17 years  
+**🧬 Temperament:** Affectionate, Friendly, Gentle, Quiet, Easygoing  
 
 ### 📖 Description
-> The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
+> Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Somali on Wikipedia](https://en.wikipedia.org/wiki/Somali_(cat))**
+🔗 **[Read more about Ragdoll on Wikipedia](https://en.wikipedia.org/wiki/Ragdoll)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `June 27, 2026`
+- 🔄 **Last Update:** `June 28, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-06-27 20:53:48 UTC | Image ID: yLnM69IIz -->
+<!-- Generated automatically on 2026-06-28 20:54:50 UTC | Image ID: yHZ1Cr6fd -->
