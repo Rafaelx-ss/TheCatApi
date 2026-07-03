@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 2, 2026 at 20:57:33`  
-> 🆔 **Cat ID:** `Ycnj9T-JJ`  
-> 📐 **Image Dimensions:** `1080x1350px`
+> ✨ **Updated:** `July 3, 2026 at 20:56:46`  
+> 🆔 **Cat ID:** `0VDLLByGi`  
+> 📐 **Image Dimensions:** `3024x4032px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Ycnj9T-JJ.jpg" alt="Turkish Van Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/0VDLLByGi.jpg" alt="Nebelung Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Turkish Van**
-> *Also known as: Turkish Cat, Swimming cat*
+### 🏷️ **Nebelung**
+> *Also known as: Longhaired Russian Blue*
 
-**📍 Origin:** Turkey  
-**⏳ Life Span:** 12 - 17 years  
-**🧬 Temperament:** Agile, Intelligent, Loyal, Playful, Energetic  
+**📍 Origin:** United States  
+**⏳ Life Span:** 11 - 16 years  
+**🧬 Temperament:** Gentle, Quiet, Shy, Playful  
 
 ### 📖 Description
-> While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. 
+> The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.
 
 ---
 
@@ -39,10 +39,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -50,14 +50,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | No | 💎 **Rare Breed** | Yes 💎 |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Turkish Van on Wikipedia](https://en.wikipedia.org/wiki/Turkish_Van)**
+🔗 **[Read more about Nebelung on Wikipedia](https://en.wikipedia.org/wiki/Nebelung)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 2, 2026`
+- 🔄 **Last Update:** `July 3, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-02 20:57:33 UTC | Image ID: Ycnj9T-JJ -->
+<!-- Generated automatically on 2026-07-03 20:56:46 UTC | Image ID: 0VDLLByGi -->
