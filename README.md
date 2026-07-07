@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 6, 2026 at 21:23:18`  
-> 🆔 **Cat ID:** `3FoFgV7R2`  
-> 📐 **Image Dimensions:** `2047x1326px`
+> ✨ **Updated:** `July 7, 2026 at 21:17:20`  
+> 🆔 **Cat ID:** `Bc0CMLOjz`  
+> 📐 **Image Dimensions:** `944x1024px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/3FoFgV7R2.jpg" alt="Toyger Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Bc0CMLOjz.jpg" alt="Bombay Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Toyger**
+### 🏷️ **Bombay**
+> *Also known as: Small black Panther*
+
 **📍 Origin:** United States  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Playful, Social, Intelligent  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Affectionate, Dependent, Gentle, Intelligent, Playful  
 
 ### 📖 Description
-> The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.
+> The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.
 
 ---
 
@@ -37,10 +39,10 @@
 |---|---|---|---|
 | 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -55,7 +57,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Toyger on Wikipedia](https://en.wikipedia.org/wiki/Toyger)**
+🔗 **[Read more about Bombay on Wikipedia](https://en.wikipedia.org/wiki/Bombay_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 6, 2026`
+- 🔄 **Last Update:** `July 7, 2026`
 
 ---
 
@@ -129,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-06 21:23:18 UTC | Image ID: 3FoFgV7R2 -->
+<!-- Generated automatically on 2026-07-07 21:17:20 UTC | Image ID: Bc0CMLOjz -->
