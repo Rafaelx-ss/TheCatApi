@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 9, 2026 at 21:16:34`  
-> 🆔 **Cat ID:** `MxaS9brW9`  
-> 📐 **Image Dimensions:** `1200x1799px`
+> ✨ **Updated:** `July 10, 2026 at 21:01:07`  
+> 🆔 **Cat ID:** `3Xe_cTMsx`  
+> 📐 **Image Dimensions:** `1110x741px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/MxaS9brW9.jpg" alt="LaPerm Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/3Xe_cTMsx.jpg" alt="Norwegian Forest Cat Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **LaPerm**
-> *Also known as: Si-Sawat*
+### 🏷️ **Norwegian Forest Cat**
+> *Also known as: Skogkatt / Skaukatt, Norsk Skogkatt / Norsk Skaukatt, Weegie*
 
-**📍 Origin:** Thailand  
-**⏳ Life Span:** 10 - 15 years  
-**🧬 Temperament:** Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet  
+**📍 Origin:** Norway  
+**⏳ Life Span:** 12 - 16 years  
+**🧬 Temperament:** Sweet, Active, Intelligent, Social, Playful, Lively, Curious  
 
 ### 📖 Description
-> LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.
+> The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
 
 ---
 
@@ -51,13 +51,13 @@
 | Trait | Status | Trait | Status |
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | Yes 🌀 |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about LaPerm on Wikipedia](https://en.wikipedia.org/wiki/LaPerm)**
+🔗 **[Read more about Norwegian Forest Cat on Wikipedia](https://en.wikipedia.org/wiki/Norwegian_Forest_Cat)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 9, 2026`
+- 🔄 **Last Update:** `July 10, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-09 21:16:34 UTC | Image ID: MxaS9brW9 -->
+<!-- Generated automatically on 2026-07-10 21:01:07 UTC | Image ID: 3Xe_cTMsx -->
