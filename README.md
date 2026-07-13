@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 12, 2026 at 20:37:18`  
-> 🆔 **Cat ID:** `d_RzH-Zft`  
-> 📐 **Image Dimensions:** `1691x1123px`
+> ✨ **Updated:** `July 13, 2026 at 20:52:04`  
+> 🆔 **Cat ID:** `EHG3sOpAM`  
+> 📐 **Image Dimensions:** `1600x1067px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/d_RzH-Zft.jpg" alt="Persian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/EHG3sOpAM.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Persian**
-> *Also known as: Longhair, Persian Longhair, Shiraz, Shirazi*
-
-**📍 Origin:** Iran (Persia)  
+### 🏷️ **Abyssinian**
+**📍 Origin:** Egypt  
 **⏳ Life Span:** 14 - 15 years  
-**🧬 Temperament:** Affectionate, loyal, Sedate, Quiet  
+**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle  
 
 ### 📖 Description
-> Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.
+> The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.
 
 ---
 
@@ -37,12 +35,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶 | 👥 **Social Needs** | 👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝 |
-| ⚡ **Energy Level** | ⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥 |
 
 ---
 
@@ -57,7 +55,7 @@
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Persian on Wikipedia](https://en.wikipedia.org/wiki/Persian_(cat))**
+🔗 **[Read more about Abyssinian on Wikipedia](https://en.wikipedia.org/wiki/Abyssinian_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 12, 2026`
+- 🔄 **Last Update:** `July 13, 2026`
 
 ---
 
@@ -131,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-12 20:37:18 UTC | Image ID: d_RzH-Zft -->
+<!-- Generated automatically on 2026-07-13 20:52:04 UTC | Image ID: EHG3sOpAM -->
