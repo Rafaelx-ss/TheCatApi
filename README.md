@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 24, 2026 at 20:56:21`  
-> 🆔 **Cat ID:** `Q6TDnfM_O`  
-> 📐 **Image Dimensions:** `1600x1000px`
+> ✨ **Updated:** `July 25, 2026 at 20:41:54`  
+> 🆔 **Cat ID:** `h0A4PuWV0`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Q6TDnfM_O.jpg" alt="American Wirehair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/h0A4PuWV0.jpg" alt="Savannah Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **American Wirehair**
+### 🏷️ **Savannah**
 **📍 Origin:** United States  
-**⏳ Life Span:** 14 - 18 years  
-**🧬 Temperament:** Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social  
+**⏳ Life Span:** 17 - 20 years  
+**🧬 Temperament:** Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate  
 
 ### 📖 Description
-> The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.
+> Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.
 
 ---
 
@@ -35,12 +35,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -48,14 +48,14 @@
 
 | Trait | Status | Trait | Status |
 |---|---|---|---|
-| 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
+| 🧪 **Experimental** | Yes 🧪 | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about American Wirehair on Wikipedia](https://en.wikipedia.org/wiki/American_Wirehair)**
+🔗 **[Read more about Savannah on Wikipedia](https://en.wikipedia.org/wiki/Savannah_cat)**
 
 ---
 ## 🚀 How It Works
@@ -90,7 +90,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 24, 2026`
+- 🔄 **Last Update:** `July 25, 2026`
 
 ---
 
@@ -129,4 +129,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-24 20:56:21 UTC | Image ID: Q6TDnfM_O -->
+<!-- Generated automatically on 2026-07-25 20:41:54 UTC | Image ID: h0A4PuWV0 -->
