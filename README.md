@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `July 27, 2026 at 21:04:20`  
-> 🆔 **Cat ID:** `e0sS4bZcP`  
-> 📐 **Image Dimensions:** `750x750px`
+> ✨ **Updated:** `July 28, 2026 at 21:01:58`  
+> 🆔 **Cat ID:** `5dF28H7__`  
+> 📐 **Image Dimensions:** `1080x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/e0sS4bZcP.jpg" alt="Siamese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/5dF28H7__.jpg" alt="Selkirk Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Siamese**
-> *Also known as: Siam, Thai Cat*
+### 🏷️ **Selkirk Rex**
+> *Also known as: Shepherd Cat*
 
-**📍 Origin:** Thailand  
-**⏳ Life Span:** 12 - 15 years  
-**🧬 Temperament:** Active, Agile, Clever, Sociable, Loving, Energetic  
+**📍 Origin:** United States  
+**⏳ Life Span:** 14 - 15 years  
+**🧬 Temperament:** Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social  
 
 ### 📖 Description
-> While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.
+> The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. 
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
 
 ---
 
@@ -51,13 +51,13 @@
 | Trait | Status | Trait | Status |
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
-| 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
+| 🦲 **Hairless** | No | 🌀 **Rex Coat** | Yes 🌀 |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | Yes 🌿 | 🐾 **Suppressed Tail** | No |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Siamese on Wikipedia](https://en.wikipedia.org/wiki/Siamese_(cat))**
+🔗 **[Read more about Selkirk Rex on Wikipedia](https://en.wikipedia.org/wiki/Selkirk_Rex)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `July 27, 2026`
+- 🔄 **Last Update:** `July 28, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-07-27 21:04:20 UTC | Image ID: e0sS4bZcP -->
+<!-- Generated automatically on 2026-07-28 21:01:58 UTC | Image ID: 5dF28H7__ -->
