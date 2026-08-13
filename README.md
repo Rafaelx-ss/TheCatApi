@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `August 12, 2026 at 20:35:54`  
-> 🆔 **Cat ID:** `TOozwr2OD`  
-> 📐 **Image Dimensions:** `1080x1080px`
+> ✨ **Updated:** `August 13, 2026 at 20:34:31`  
+> 🆔 **Cat ID:** `QCcTOaIQW`  
+> 📐 **Image Dimensions:** `1553x2047px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/TOozwr2OD.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/QCcTOaIQW.jpg" alt="Japanese Bobtail Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Scottish Fold**
-> *Also known as: Scot Fold*
+### 🏷️ **Japanese Bobtail**
+> *Also known as: Japanese Truncated Cat*
 
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11 - 14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving  
+**📍 Origin:** Japan  
+**⏳ Life Span:** 14 - 16 years  
+**🧬 Temperament:** Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social  
 
 ### 📖 Description
-> The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the "Buddha Position".
+> The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.
 
 ---
 
@@ -37,12 +37,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠 |
+| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
 | ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥🏥🏥🏥 |
+| 👶 **Child Friendly** | 👶👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
+| 🐕 **Dog Friendly** | 🐕🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
+| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️🗣️🗣️🗣️🗣️ |
+| ✂️ **Grooming Needs** | ✂️ | 🏥 **Health Issues** | 🏥 |
 
 ---
 
@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 🧪 **Experimental** | No | 💎 **Rare Breed** | No |
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
-| 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
-| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
+| 🌿 **Natural Breed** | Yes 🌿 | 🦵 **Short Legs** | No |
+| 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | Yes |
 
 ---
 ## 📚 Learn More
-🔗 **[Read more about Scottish Fold on Wikipedia](https://en.wikipedia.org/wiki/Scottish_Fold)**
+🔗 **[Read more about Japanese Bobtail on Wikipedia](https://en.wikipedia.org/wiki/Japanese_Bobtail)**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +92,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `August 12, 2026`
+- 🔄 **Last Update:** `August 13, 2026`
 
 ---
 
@@ -131,4 +131,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-08-12 20:35:54 UTC | Image ID: TOozwr2OD -->
+<!-- Generated automatically on 2026-08-13 20:34:31 UTC | Image ID: QCcTOaIQW -->
