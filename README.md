@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `August 14, 2026 at 20:23:51`  
-> 🆔 **Cat ID:** `yLnM69IIz`  
-> 📐 **Image Dimensions:** `4368x2912px`
+> ✨ **Updated:** `August 15, 2026 at 20:14:29`  
+> 🆔 **Cat ID:** `t8oArUO-L`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/yLnM69IIz.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/t8oArUO-L.jpg" alt="Tonkinese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Somali**
-> *Also known as: Fox Cat, Long-Haired Abyssinian*
-
-**📍 Origin:** Somalia  
-**⏳ Life Span:** 12 - 16 years  
-**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal  
+### 🏷️ **Tonkinese**
+**📍 Origin:** Vocal and chatty, enjoys conversations  
+**⏳ Life Span:** 14-16 years  
+**🧬 Temperament:** Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate  
 
 ### 📖 Description
-> The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.
+> Medium-sized, muscular cat combining Siamese and Burmese traits. Pointed pattern with aqua eyes in mink color.
 
 ---
 
@@ -37,12 +35,12 @@
 
 | Characteristic | Rating | Characteristic | Rating |
 |---|---|---|---|
-| 🏠 **Adaptability** | ⭐⭐⭐⭐⭐ | 🧠 **Intelligence** | 🧠🧠🧠🧠🧠 |
-| ❤️ **Affection Level** | ❤️❤️❤️❤️❤️ | 🪶 **Shedding Level** | 🪶🪶🪶🪶 |
-| 👶 **Child Friendly** | 👶👶👶 | 👥 **Social Needs** | 👥👥👥👥👥 |
-| 🐕 **Dog Friendly** | 🐕🐕🐕🐕 | 🤝 **Stranger Friendly** | 🤝🤝🤝🤝🤝 |
-| ⚡ **Energy Level** | ⚡⚡⚡⚡⚡ | 🗣️ **Vocalisation** | 🗣️ |
-| ✂️ **Grooming Needs** | ✂️✂️✂️ | 🏥 **Health Issues** | 🏥🏥 |
+| 🏠 **Adaptability** | Unknown | 🧠 **Intelligence** | Unknown |
+| ❤️ **Affection Level** | Unknown | 🪶 **Shedding Level** | Unknown |
+| 👶 **Child Friendly** | Unknown | 👥 **Social Needs** | Unknown |
+| 🐕 **Dog Friendly** | Unknown | 🤝 **Stranger Friendly** | Unknown |
+| ⚡ **Energy Level** | Unknown | 🗣️ **Vocalisation** | Unknown |
+| ✂️ **Grooming Needs** | Unknown | 🏥 **Health Issues** | Unknown |
 
 ---
 
@@ -54,10 +52,6 @@
 | 🦲 **Hairless** | No | 🌀 **Rex Coat** | No |
 | 🌿 **Natural Breed** | No | 🦵 **Short Legs** | No |
 | 🌿 **Hypoallergenic** | No | 🐾 **Suppressed Tail** | No |
-
----
-## 📚 Learn More
-🔗 **[Read more about Somali on Wikipedia](https://en.wikipedia.org/wiki/Somali_(cat))**
 
 ---
 ## 🚀 How It Works
@@ -92,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `August 14, 2026`
+- 🔄 **Last Update:** `August 15, 2026`
 
 ---
 
@@ -131,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-08-14 20:23:51 UTC | Image ID: yLnM69IIz -->
+<!-- Generated automatically on 2026-08-15 20:14:29 UTC | Image ID: t8oArUO-L -->
