@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `August 23, 2026 at 20:13:54`  
-> 🆔 **Cat ID:** `LHOfWpFZa`  
-> 📐 **Image Dimensions:** `1819x1213px`
+> ✨ **Updated:** `August 24, 2026 at 20:21:17`  
+> 🆔 **Cat ID:** `1j7vyj1d7`  
+> 📐 **Image Dimensions:** `1100x739px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/LHOfWpFZa.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/1j7vyj1d7.png" alt="LaPerm Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Sphynx**
-**📍 Origin:** Canada  
-**⏳ Life Span:** 12-16 years  
-**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle, Affectionate, Social  
+### 🏷️ **LaPerm**
+**📍 Origin:** United States  
+**⏳ Life Span:** 10-15 years  
+**🧬 Temperament:** Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet  
 
 ### 📖 Description
-> Medium-sized, hairless cat with wrinkled skin, large ears, and muscular body. Known for affectionate, attention-seeking personality.
+> Medium-sized cat with distinctive curly or wavy coat ranging from tight ringlets to long corkscrew curls.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `August 23, 2026`
+- 🔄 **Last Update:** `August 24, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-08-23 20:13:54 UTC | Image ID: LHOfWpFZa -->
+<!-- Generated automatically on 2026-08-24 20:21:17 UTC | Image ID: 1j7vyj1d7 -->
