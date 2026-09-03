@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 2, 2026 at 22:14:11`  
-> 🆔 **Cat ID:** `ozEvzdVM-`  
-> 📐 **Image Dimensions:** `1200x800px`
+> ✨ **Updated:** `September 3, 2026 at 22:07:04`  
+> 🆔 **Cat ID:** `0eVXT8_lb`  
+> 📐 **Image Dimensions:** `1396x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg" alt="Aegean Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/0eVXT8_lb.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Aegean**
-**📍 Origin:** Greece  
-**⏳ Life Span:** 9-12 years  
-**🧬 Temperament:** Affectionate, Social, Intelligent, Playful, Active, Adaptable  
+### 🏷️ **Oriental Shorthair**
+**📍 Origin:** United States  
+**⏳ Life Span:** 12-15 years  
+**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
 
 ### 📖 Description
-> Medium-sized natural breed with a semi-longhaired coat, muscular build, and almond-shaped eyes. One of the oldest domesticated cat breeds, known for its love of water and fishing heritage.
+> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 2, 2026`
+- 🔄 **Last Update:** `September 3, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-02 22:14:11 UTC | Image ID: ozEvzdVM- -->
+<!-- Generated automatically on 2026-09-03 22:07:04 UTC | Image ID: 0eVXT8_lb -->
