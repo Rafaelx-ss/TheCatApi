@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 3, 2026 at 22:07:04`  
-> 🆔 **Cat ID:** `0eVXT8_lb`  
-> 📐 **Image Dimensions:** `1396x1080px`
+> ✨ **Updated:** `September 4, 2026 at 22:00:07`  
+> 🆔 **Cat ID:** `me56sI74P`  
+> 📐 **Image Dimensions:** `736x1104px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/0eVXT8_lb.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/me56sI74P.jpg" alt="Himalayan Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Oriental Shorthair**
+### 🏷️ **Himalayan**
 **📍 Origin:** United States  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
+**⏳ Life Span:** 9-15 years  
+**🧬 Temperament:** Dependent, Gentle, Intelligent, Quiet, Social, Sweet, Calm  
 
 ### 📖 Description
-> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
+> Medium to large, cobby cat with Persian body type and Siamese colorpoint pattern. Long luxurious coat and blue eyes.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 3, 2026`
+- 🔄 **Last Update:** `September 4, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-03 22:07:04 UTC | Image ID: 0eVXT8_lb -->
+<!-- Generated automatically on 2026-09-04 22:00:07 UTC | Image ID: me56sI74P -->
