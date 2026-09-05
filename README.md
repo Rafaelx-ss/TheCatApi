@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 4, 2026 at 22:00:07`  
-> 🆔 **Cat ID:** `me56sI74P`  
-> 📐 **Image Dimensions:** `736x1104px`
+> ✨ **Updated:** `September 5, 2026 at 21:50:00`  
+> 🆔 **Cat ID:** `Nw-PtLQuk`  
+> 📐 **Image Dimensions:** `1200x900px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/me56sI74P.jpg" alt="Himalayan Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Nw-PtLQuk.jpg" alt="Nebelung Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Himalayan**
+### 🏷️ **Nebelung**
 **📍 Origin:** United States  
-**⏳ Life Span:** 9-15 years  
-**🧬 Temperament:** Dependent, Gentle, Intelligent, Quiet, Social, Sweet, Calm  
+**⏳ Life Span:** 11-16 years  
+**🧬 Temperament:** Gentle, Quiet, Shy, Playful, Reserved, Loyal  
 
 ### 📖 Description
-> Medium to large, cobby cat with Persian body type and Siamese colorpoint pattern. Long luxurious coat and blue eyes.
+> Medium-sized, elegant cat with long, silky blue-gray coat and green eyes. Longhaired version of Russian Blue.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 4, 2026`
+- 🔄 **Last Update:** `September 5, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-04 22:00:07 UTC | Image ID: me56sI74P -->
+<!-- Generated automatically on 2026-09-05 21:50:00 UTC | Image ID: Nw-PtLQuk -->
