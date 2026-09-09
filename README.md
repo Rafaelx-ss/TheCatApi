@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 8, 2026 at 22:15:42`  
-> 🆔 **Cat ID:** `6P42aYVha`  
-> 📐 **Image Dimensions:** `1201x800px`
+> ✨ **Updated:** `September 9, 2026 at 22:08:59`  
+> 🆔 **Cat ID:** `jVu6K43F7`  
+> 📐 **Image Dimensions:** `2000x1423px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/6P42aYVha.jpg" alt="Scottish Fold Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/jVu6K43F7.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Scottish Fold**
-**📍 Origin:** Scotland  
-**⏳ Life Span:** 11-14 years  
-**🧬 Temperament:** Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving, Gentle  
+### 🏷️ **Oriental Shorthair**
+**📍 Origin:** United States  
+**⏳ Life Span:** 12-15 years  
+**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
 
 ### 📖 Description
-> Medium-sized round cat with distinctive folded ears that give an owl-like appearance. Known for sweet, gentle personality.
+> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 8, 2026`
+- 🔄 **Last Update:** `September 9, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-08 22:15:42 UTC | Image ID: 6P42aYVha -->
+<!-- Generated automatically on 2026-09-09 22:08:59 UTC | Image ID: jVu6K43F7 -->
