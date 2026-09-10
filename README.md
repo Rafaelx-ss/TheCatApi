@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 9, 2026 at 22:08:59`  
-> 🆔 **Cat ID:** `jVu6K43F7`  
-> 📐 **Image Dimensions:** `2000x1423px`
+> ✨ **Updated:** `September 10, 2026 at 22:10:10`  
+> 🆔 **Cat ID:** `R68eywp-W`  
+> 📐 **Image Dimensions:** `1024x768px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/jVu6K43F7.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/R68eywp-W.jpg" alt="Japanese Bobtail Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Oriental Shorthair**
-**📍 Origin:** United States  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
+### 🏷️ **Japanese Bobtail**
+**📍 Origin:** Japan  
+**⏳ Life Span:** 14-16 years  
+**🧬 Temperament:** Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social  
 
 ### 📖 Description
-> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
+> Medium-sized cat with distinctive pom-pom tail and elegant, slender build. Traditional Japanese breed.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 9, 2026`
+- 🔄 **Last Update:** `September 10, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-09 22:08:59 UTC | Image ID: jVu6K43F7 -->
+<!-- Generated automatically on 2026-09-10 22:10:10 UTC | Image ID: R68eywp-W -->
