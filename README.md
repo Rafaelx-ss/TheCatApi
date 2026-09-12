@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 11, 2026 at 22:08:25`  
-> 🆔 **Cat ID:** `khyg1KLOZ`  
-> 📐 **Image Dimensions:** `1682x2048px`
+> ✨ **Updated:** `September 12, 2026 at 21:52:25`  
+> 🆔 **Cat ID:** `CQGI7O47l`  
+> 📐 **Image Dimensions:** `1000x840px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/khyg1KLOZ.jpg" alt="Exotic Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/CQGI7O47l.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Exotic Shorthair**
+### 🏷️ **Oriental Shorthair**
 **📍 Origin:** United States  
 **⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Affectionate, Sweet, Loyal, Quiet, Peaceful, Gentle, Calm  
+**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
 
 ### 📖 Description
-> Medium to large, cobby cat with Persian features but short, plush coat. Known as the 'lazy man's Persian' for easier grooming needs.
+> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 11, 2026`
+- 🔄 **Last Update:** `September 12, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-11 22:08:25 UTC | Image ID: khyg1KLOZ -->
+<!-- Generated automatically on 2026-09-12 21:52:25 UTC | Image ID: CQGI7O47l -->
