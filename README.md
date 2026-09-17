@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 16, 2026 at 22:32:42`  
-> 🆔 **Cat ID:** `f6TE5pt6f`  
-> 📐 **Image Dimensions:** `3402x2268px`
+> ✨ **Updated:** `September 17, 2026 at 22:34:55`  
+> 🆔 **Cat ID:** `bSu2exlkB`  
+> 📐 **Image Dimensions:** `2380x2462px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/f6TE5pt6f.jpg" alt="Oriental Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/bSu2exlkB.jpg" alt="Sphynx Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Oriental Shorthair**
-**📍 Origin:** United States  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Energetic, Affectionate, Intelligent, Social, Playful, Curious  
+### 🏷️ **Sphynx**
+**📍 Origin:** Canada  
+**⏳ Life Span:** 12-16 years  
+**🧬 Temperament:** Loyal, Inquisitive, Friendly, Quiet, Gentle, Affectionate, Social  
 
 ### 📖 Description
-> Medium-sized, elegant cat with long tubular body, large ears, and wedge-shaped head. Siamese body type in hundreds of colors.
+> Medium-sized, hairless cat with wrinkled skin, large ears, and muscular body. Known for affectionate, attention-seeking personality.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 16, 2026`
+- 🔄 **Last Update:** `September 17, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-16 22:32:42 UTC | Image ID: f6TE5pt6f -->
+<!-- Generated automatically on 2026-09-17 22:34:55 UTC | Image ID: bSu2exlkB -->
