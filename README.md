@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 18, 2026 at 22:09:00`  
-> 🆔 **Cat ID:** `Pqtwt4FCq`  
-> 📐 **Image Dimensions:** `3864x2577px`
+> ✨ **Updated:** `September 19, 2026 at 22:00:57`  
+> 🆔 **Cat ID:** `Il3qBc63U`  
+> 📐 **Image Dimensions:** `1000x1000px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Pqtwt4FCq.jpg" alt="Persian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Il3qBc63U.jpg" alt="Colorpoint Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Persian**
-**📍 Origin:** Iran (Persia)  
-**⏳ Life Span:** 12-17 years  
-**🧬 Temperament:** Affectionate, Loyal, Sedate, Quiet, Sweet, Gentle, Calm  
+### 🏷️ **Colorpoint Shorthair**
+**📍 Origin:** United States  
+**⏳ Life Span:** 12-16 years  
+**🧬 Temperament:** Affectionate, Intelligent, Playful, Social, Active, Sensitive  
 
 ### 📖 Description
-> Medium to large, cobby cat with distinctive flat face, long luxurious coat, and calm demeanor. One of the oldest and most popular breeds.
+> Medium-sized, elegant cat with Siamese body type and pointed pattern in non-traditional colors like red, cream, and tortie points.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 18, 2026`
+- 🔄 **Last Update:** `September 19, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-18 22:09:00 UTC | Image ID: Pqtwt4FCq -->
+<!-- Generated automatically on 2026-09-19 22:00:57 UTC | Image ID: Il3qBc63U -->
