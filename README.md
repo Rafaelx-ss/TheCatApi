@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 22, 2026 at 22:36:47`  
-> 🆔 **Cat ID:** `Yx3nQTUHu`  
-> 📐 **Image Dimensions:** `1400x1050px`
+> ✨ **Updated:** `September 23, 2026 at 22:36:31`  
+> 🆔 **Cat ID:** `IFLjrNmc3`  
+> 📐 **Image Dimensions:** `750x937px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Yx3nQTUHu.jpg" alt="Turkish Angora Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/IFLjrNmc3.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Turkish Angora**
-**📍 Origin:** Turkey  
-**⏳ Life Span:** 12-18 years  
-**🧬 Temperament:** Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social, Athletic  
+### 🏷️ **Somali**
+**📍 Origin:** United States  
+**⏳ Life Span:** 11-16 years  
+**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal, Active  
 
 ### 📖 Description
-> Medium-sized, elegant cat with long silky coat and graceful build. One of the oldest natural cat breeds.
+> Medium-sized, elegant cat with long ticked coat and bushy tail. Longhaired version of the Abyssinian.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `September 22, 2026`
+- 🔄 **Last Update:** `September 23, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-22 22:36:47 UTC | Image ID: Yx3nQTUHu -->
+<!-- Generated automatically on 2026-09-23 22:36:31 UTC | Image ID: IFLjrNmc3 -->
