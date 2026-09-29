@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `September 29, 2026 at 00:06:25`  
-> 🆔 **Cat ID:** `u2Ezm_CgQ`  
-> 📐 **Image Dimensions:** `820x644px`
+> ✨ **Updated:** `September 29, 2026 at 23:20:14`  
+> 🆔 **Cat ID:** `BQMSld0A0`  
+> 📐 **Image Dimensions:** `1080x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/u2Ezm_CgQ.jpg" alt="Exotic Shorthair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/BQMSld0A0.jpg" alt="Dragon Li Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Exotic Shorthair**
-**📍 Origin:** United States  
+### 🏷️ **Dragon Li**
+**📍 Origin:** China  
 **⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Affectionate, Sweet, Loyal, Quiet, Peaceful, Gentle, Calm  
+**🧬 Temperament:** Intelligent, Friendly, Gentle, Loving, Loyal, Independent  
 
 ### 📖 Description
-> Medium to large, cobby cat with Persian features but short, plush coat. Known as the 'lazy man's Persian' for easier grooming needs.
+> Medium to large muscular cat with distinctive golden-brown tabby coat. Ancient Chinese natural breed also known as Chinese Li Hua.
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-09-29 00:06:25 UTC | Image ID: u2Ezm_CgQ -->
+<!-- Generated automatically on 2026-09-29 23:20:14 UTC | Image ID: BQMSld0A0 -->
