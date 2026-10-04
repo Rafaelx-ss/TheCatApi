@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 3, 2026 at 22:35:28`  
-> 🆔 **Cat ID:** `7399W9mut`  
-> 📐 **Image Dimensions:** `960x960px`
+> ✨ **Updated:** `October 4, 2026 at 22:39:04`  
+> 🆔 **Cat ID:** `unX21IBVB`  
+> 📐 **Image Dimensions:** `2976x1784px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/7399W9mut.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/unX21IBVB.jpg" alt="Cornish Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Munchkin**
-**📍 Origin:** United States  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful, Affectionate, Outgoing  
+### 🏷️ **Cornish Rex**
+**📍 Origin:** United Kingdom  
+**⏳ Life Span:** 11-15 years  
+**🧬 Temperament:** Affectionate, Intelligent, Active, Curious, Playful, Social  
 
 ### 📖 Description
-> Small to medium cat with distinctive very short legs and long body. Normal-sized cat with achondroplastic legs.
+> Medium-sized, elegant cat with distinctive wavy coat, long legs, and arched back. Known for its playful, kitten-like personality throughout life.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 3, 2026`
+- 🔄 **Last Update:** `October 4, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-10-03 22:35:28 UTC | Image ID: 7399W9mut -->
+<!-- Generated automatically on 2026-10-04 22:39:04 UTC | Image ID: unX21IBVB -->
