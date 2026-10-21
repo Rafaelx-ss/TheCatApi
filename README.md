@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 20, 2026 at 22:52:18`  
-> 🆔 **Cat ID:** `GwRBXx7-w`  
-> 📐 **Image Dimensions:** `1280x853px`
+> ✨ **Updated:** `October 21, 2026 at 22:57:16`  
+> 🆔 **Cat ID:** `g1j3wRjgx`  
+> 📐 **Image Dimensions:** `1024x1024px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/GwRBXx7-w.jpg" alt="Nebelung Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/g1j3wRjgx.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Nebelung**
-**📍 Origin:** United States  
-**⏳ Life Span:** 11-16 years  
-**🧬 Temperament:** Gentle, Quiet, Shy, Playful, Reserved, Loyal  
+### 🏷️ **Abyssinian**
+> *Also known as: Aby*
+
+**📍 Origin:** Egypt  
+**⏳ Life Span:** 14-17 years  
+**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle, Curious, Playful  
 
 ### 📖 Description
-> Medium-sized, elegant cat with long, silky blue-gray coat and green eyes. Longhaired version of Russian Blue.
+> Medium-sized, elegant cat with a distinctive ticked coat pattern giving a wild appearance. Known for its athletic build, almond-shaped eyes, and highly active, curious personality.
 
 ---
 
@@ -86,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 20, 2026`
+- 🔄 **Last Update:** `October 21, 2026`
 
 ---
 
@@ -125,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-10-20 22:52:18 UTC | Image ID: GwRBXx7-w -->
+<!-- Generated automatically on 2026-10-21 22:57:16 UTC | Image ID: g1j3wRjgx -->
