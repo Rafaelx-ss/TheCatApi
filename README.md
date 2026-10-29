@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `October 28, 2026 at 23:47:03`  
-> 🆔 **Cat ID:** `r_njVlaSz`  
-> 📐 **Image Dimensions:** `1920x1080px`
+> ✨ **Updated:** `October 29, 2026 at 23:44:09`  
+> 🆔 **Cat ID:** `BjIppqbNI`  
+> 📐 **Image Dimensions:** `3264x2448px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/r_njVlaSz.jpg" alt="American Bobtail Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/BjIppqbNI.jpg" alt="Cheetoh Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **American Bobtail**
+### 🏷️ **Cheetoh**
 **📍 Origin:** United States  
-**⏳ Life Span:** 11-15 years  
-**🧬 Temperament:** Intelligent, Interactive, Lively, Playful, Sensitive, Devoted  
+**⏳ Life Span:** 12-14 years  
+**🧬 Temperament:** Affectionate, Gentle, Intelligent, Social, Friendly, Playful  
 
 ### 📖 Description
-> Medium to large cat with a distinctive naturally short tail, wild appearance, and athletic build. Known for its dog-like personality and exceptional intelligence.
+> Large spotted cat combining Bengal and Ocicat heritage. Athletic build with wild appearance but gentle domestic personality.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `October 28, 2026`
+- 🔄 **Last Update:** `October 29, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-10-28 23:47:03 UTC | Image ID: r_njVlaSz -->
+<!-- Generated automatically on 2026-10-29 23:44:09 UTC | Image ID: BjIppqbNI -->
