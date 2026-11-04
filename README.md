@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 3, 2026 at 01:56:20`  
-> 🆔 **Cat ID:** `IFXsxmXLm`  
-> 📐 **Image Dimensions:** `973x973px`
+> ✨ **Updated:** `November 4, 2026 at 00:17:52`  
+> 🆔 **Cat ID:** `ayEJiATFy`  
+> 📐 **Image Dimensions:** `2048x1531px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/IFXsxmXLm.jpg" alt="Bengal Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/ayEJiATFy.jpg" alt="Somali Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Bengal**
-> *Also known as: Leopardette*
+### 🏷️ **Somali**
+> *Also known as: Long-Haired Abyssinian, Fox Cat*
 
 **📍 Origin:** United States  
-**⏳ Life Span:** 12-16 years  
-**🧬 Temperament:** Alert, Agile, Energetic, Demanding, Intelligent, Curious, Playful  
+**⏳ Life Span:** 11-16 years  
+**🧬 Temperament:** Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal, Active  
 
 ### 📖 Description
-> Medium to large, muscular cat with a distinctive wild appearance featuring spotted or marbled coat patterns. Highly athletic and intelligent with an exotic look.
+> Medium-sized, elegant cat with long ticked coat and bushy tail. Longhaired version of the Abyssinian.
 
 ---
 
@@ -88,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 3, 2026`
+- 🔄 **Last Update:** `November 4, 2026`
 
 ---
 
@@ -127,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-03 01:56:20 UTC | Image ID: IFXsxmXLm -->
+<!-- Generated automatically on 2026-11-04 00:17:52 UTC | Image ID: ayEJiATFy -->
