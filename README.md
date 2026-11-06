@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 6, 2026 at 00:38:19`  
-> 🆔 **Cat ID:** `zXYdWjjy4`  
-> 📐 **Image Dimensions:** `750x750px`
+> ✨ **Updated:** `November 6, 2026 at 23:54:21`  
+> 🆔 **Cat ID:** `BkksyH95Z`  
+> 📐 **Image Dimensions:** `1920x1080px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/zXYdWjjy4.jpg" alt="Selkirk Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/BkksyH95Z.jpg" alt="Bombay Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Selkirk Rex**
+### 🏷️ **Bombay**
 **📍 Origin:** United States  
-**⏳ Life Span:** 14-15 years  
-**🧬 Temperament:** Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social  
+**⏳ Life Span:** 12-18 years  
+**🧬 Temperament:** Affectionate, Dependent, Gentle, Intelligent, Playful, Social  
 
 ### 📖 Description
-> Medium to large cat with plush, curly coat resembling a teddy bear. More stocky build than other Rex breeds.
+> Medium-sized, muscular jet-black cat with striking copper or gold eyes. Bred to resemble a miniature black panther with a sleek, patent-leather coat.
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-06 00:38:19 UTC | Image ID: zXYdWjjy4 -->
+<!-- Generated automatically on 2026-11-06 23:54:21 UTC | Image ID: BkksyH95Z -->
