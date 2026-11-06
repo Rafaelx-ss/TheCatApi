@@ -7,27 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 5, 2026 at 00:40:18`  
-> 🆔 **Cat ID:** `Co5BH7YZT`  
-> 📐 **Image Dimensions:** `1024x768px`
+> ✨ **Updated:** `November 6, 2026 at 00:38:19`  
+> 🆔 **Cat ID:** `zXYdWjjy4`  
+> 📐 **Image Dimensions:** `750x750px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Co5BH7YZT.jpg" alt="Turkish Van Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/zXYdWjjy4.jpg" alt="Selkirk Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Turkish Van**
-**📍 Origin:** Turkey  
-**⏳ Life Span:** 12-17 years  
-**🧬 Temperament:** Agile, Intelligent, Loyal, Playful, Energetic, Active, Affectionate  
+### 🏷️ **Selkirk Rex**
+**📍 Origin:** United States  
+**⏳ Life Span:** 14-15 years  
+**🧬 Temperament:** Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social  
 
 ### 📖 Description
-> Large, muscular cat with distinctive Van pattern (colored head and tail, white body). Famous for loving water.
+> Medium to large cat with plush, curly coat resembling a teddy bear. More stocky build than other Rex breeds.
 
 ---
 
@@ -86,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 5, 2026`
+- 🔄 **Last Update:** `November 6, 2026`
 
 ---
 
@@ -125,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-05 00:40:18 UTC | Image ID: Co5BH7YZT -->
+<!-- Generated automatically on 2026-11-06 00:38:19 UTC | Image ID: zXYdWjjy4 -->
