@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 12, 2026 at 01:45:07`  
-> 🆔 **Cat ID:** `p2U4ZXgKL`  
-> 📐 **Image Dimensions:** `1664x2099px`
+> ✨ **Updated:** `November 13, 2026 at 00:49:31`  
+> 🆔 **Cat ID:** `z_k-oJ8xG`  
+> 📐 **Image Dimensions:** `2031x1217px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/p2U4ZXgKL.jpg" alt="Burmilla Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/z_k-oJ8xG.jpg" alt="Arabian Mau Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Burmilla**
-> *Also known as: Asian Shaded*
-
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 10-15 years  
-**🧬 Temperament:** Easy Going, Friendly, Intelligent, Lively, Playful, Social, Affectionate  
+### 🏷️ **Arabian Mau**
+**📍 Origin:** United Arab Emirates  
+**⏳ Life Span:** 12-14 years  
+**🧬 Temperament:** Affectionate, Agile, Curious, Independent, Playful, Loyal, Active  
 
 ### 📖 Description
-> Medium-sized elegant cat with a sparkling silver-shaded or tipped coat. Combines Burmese personality with Chinchilla Persian coloring.
+> Medium to large, muscular cat with a natural, athletic build adapted to desert conditions. Known for excellent health and survival instincts.
 
 ---
 
@@ -88,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 12, 2026`
+- 🔄 **Last Update:** `November 13, 2026`
 
 ---
 
@@ -127,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-12 01:45:07 UTC | Image ID: p2U4ZXgKL -->
+<!-- Generated automatically on 2026-11-13 00:49:31 UTC | Image ID: z_k-oJ8xG -->
