@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 13, 2026 at 00:49:31`  
-> 🆔 **Cat ID:** `z_k-oJ8xG`  
-> 📐 **Image Dimensions:** `2031x1217px`
+> ✨ **Updated:** `November 14, 2026 at 00:35:15`  
+> 🆔 **Cat ID:** `wBbqm3pJa`  
+> 📐 **Image Dimensions:** `225x225px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/z_k-oJ8xG.jpg" alt="Arabian Mau Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/wBbqm3pJa.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Arabian Mau**
-**📍 Origin:** United Arab Emirates  
-**⏳ Life Span:** 12-14 years  
-**🧬 Temperament:** Affectionate, Agile, Curious, Independent, Playful, Loyal, Active  
+### 🏷️ **Munchkin**
+> *Also known as: Sausage Cat*
+
+**📍 Origin:** United States  
+**⏳ Life Span:** 12-15 years  
+**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful, Affectionate, Outgoing  
 
 ### 📖 Description
-> Medium to large, muscular cat with a natural, athletic build adapted to desert conditions. Known for excellent health and survival instincts.
+> Small to medium cat with distinctive very short legs and long body. Normal-sized cat with achondroplastic legs.
 
 ---
 
@@ -86,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 13, 2026`
+- 🔄 **Last Update:** `November 14, 2026`
 
 ---
 
@@ -125,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-13 00:49:31 UTC | Image ID: z_k-oJ8xG -->
+<!-- Generated automatically on 2026-11-14 00:35:15 UTC | Image ID: wBbqm3pJa -->
