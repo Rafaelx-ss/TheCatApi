@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 21, 2026 at 01:00:06`  
-> 🆔 **Cat ID:** `JWOrjbhum`  
-> 📐 **Image Dimensions:** `768x1024px`
+> ✨ **Updated:** `November 22, 2026 at 00:00:13`  
+> 🆔 **Cat ID:** `xnzzM6MBI`  
+> 📐 **Image Dimensions:** `2592x1629px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/JWOrjbhum.jpg" alt="British Longhair Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/xnzzM6MBI.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **British Longhair**
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Affectionate, Easy Going, Independent, Intelligent, Loyal, Social, Calm  
+### 🏷️ **Abyssinian**
+> *Also known as: Aby*
+
+**📍 Origin:** Egypt  
+**⏳ Life Span:** 14-17 years  
+**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle, Curious, Playful  
 
 ### 📖 Description
-> Large, round cat with plush long coat and characteristic cobby body. The longhaired version of the British Shorthair with the same gentle personality.
+> Medium-sized, elegant cat with a distinctive ticked coat pattern giving a wild appearance. Known for its athletic build, almond-shaped eyes, and highly active, curious personality.
 
 ---
 
@@ -86,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 21, 2026`
+- 🔄 **Last Update:** `November 22, 2026`
 
 ---
 
@@ -125,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-21 01:00:06 UTC | Image ID: JWOrjbhum -->
+<!-- Generated automatically on 2026-11-22 00:00:13 UTC | Image ID: xnzzM6MBI -->
