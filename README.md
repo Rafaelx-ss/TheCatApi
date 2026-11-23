@@ -7,29 +7,27 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 22, 2026 at 00:00:13`  
-> 🆔 **Cat ID:** `xnzzM6MBI`  
-> 📐 **Image Dimensions:** `2592x1629px`
+> ✨ **Updated:** `November 23, 2026 at 00:33:04`  
+> 🆔 **Cat ID:** `kOAHCDEzA`  
+> 📐 **Image Dimensions:** `2048x1365px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/xnzzM6MBI.jpg" alt="Abyssinian Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/kOAHCDEzA.jpg" alt="Cornish Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Abyssinian**
-> *Also known as: Aby*
-
-**📍 Origin:** Egypt  
-**⏳ Life Span:** 14-17 years  
-**🧬 Temperament:** Active, Energetic, Independent, Intelligent, Gentle, Curious, Playful  
+### 🏷️ **Cornish Rex**
+**📍 Origin:** United Kingdom  
+**⏳ Life Span:** 11-15 years  
+**🧬 Temperament:** Affectionate, Intelligent, Active, Curious, Playful, Social  
 
 ### 📖 Description
-> Medium-sized, elegant cat with a distinctive ticked coat pattern giving a wild appearance. Known for its athletic build, almond-shaped eyes, and highly active, curious personality.
+> Medium-sized, elegant cat with distinctive wavy coat, long legs, and arched back. Known for its playful, kitten-like personality throughout life.
 
 ---
 
@@ -88,7 +86,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 22, 2026`
+- 🔄 **Last Update:** `November 23, 2026`
 
 ---
 
@@ -127,4 +125,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-22 00:00:13 UTC | Image ID: xnzzM6MBI -->
+<!-- Generated automatically on 2026-11-23 00:33:04 UTC | Image ID: kOAHCDEzA -->
