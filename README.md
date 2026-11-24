@@ -7,27 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 23, 2026 at 00:33:04`  
-> 🆔 **Cat ID:** `kOAHCDEzA`  
-> 📐 **Image Dimensions:** `2048x1365px`
+> ✨ **Updated:** `November 24, 2026 at 04:31:58`  
+> 🆔 **Cat ID:** `Hxf2tUHL6`  
+> 📐 **Image Dimensions:** `1280x1600px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/kOAHCDEzA.jpg" alt="Cornish Rex Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/Hxf2tUHL6.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Cornish Rex**
-**📍 Origin:** United Kingdom  
-**⏳ Life Span:** 11-15 years  
-**🧬 Temperament:** Affectionate, Intelligent, Active, Curious, Playful, Social  
+### 🏷️ **Munchkin**
+> *Also known as: Sausage Cat*
+
+**📍 Origin:** United States  
+**⏳ Life Span:** 12-15 years  
+**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful, Affectionate, Outgoing  
 
 ### 📖 Description
-> Medium-sized, elegant cat with distinctive wavy coat, long legs, and arched back. Known for its playful, kitten-like personality throughout life.
+> Small to medium cat with distinctive very short legs and long body. Normal-sized cat with achondroplastic legs.
 
 ---
 
@@ -86,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 23, 2026`
+- 🔄 **Last Update:** `November 24, 2026`
 
 ---
 
@@ -125,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-23 00:33:04 UTC | Image ID: kOAHCDEzA -->
+<!-- Generated automatically on 2026-11-24 04:31:58 UTC | Image ID: Hxf2tUHL6 -->
