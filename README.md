@@ -7,29 +7,29 @@
 ---
 
 ## 🌟 Today's Featured Cat
-> ✨ **Updated:** `November 24, 2026 at 04:31:58`  
-> 🆔 **Cat ID:** `Hxf2tUHL6`  
-> 📐 **Image Dimensions:** `1280x1600px`
+> ✨ **Updated:** `November 25, 2026 at 03:16:45`  
+> 🆔 **Cat ID:** `O2Xx5d4rV`  
+> 📐 **Image Dimensions:** `1280x854px`
 
 ### 🖼️ Meet Today's Star!
 
 <div align="center">
-  <img src="https://cdn2.thecatapi.com/images/Hxf2tUHL6.jpg" alt="Munchkin Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://cdn2.thecatapi.com/images/O2Xx5d4rV.jpg" alt="Siamese Cat" width="500" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ---
 
 ## 📋 Breed Information
 
-### 🏷️ **Munchkin**
-> *Also known as: Sausage Cat*
+### 🏷️ **Siamese**
+> *Also known as: Royal Cat of Siam, Meezer*
 
-**📍 Origin:** United States  
-**⏳ Life Span:** 12-15 years  
-**🧬 Temperament:** Agile, Easy Going, Intelligent, Playful, Affectionate, Outgoing  
+**📍 Origin:** Thailand  
+**⏳ Life Span:** 12-20 years  
+**🧬 Temperament:** Active, Agile, Clever, Sociable, Loving, Energetic, Affectionate  
 
 ### 📖 Description
-> Small to medium cat with distinctive very short legs and long body. Normal-sized cat with achondroplastic legs.
+> Medium-sized, elegant cat with distinctive colorpoint pattern, blue eyes, and wedge-shaped head. One of the most recognizable breeds.
 
 ---
 
@@ -88,7 +88,7 @@ https://api.thecatapi.com/v1/images/search?size=med&mime_types=jpg&format=json&h
 - 📸 **Total Images Processed:** `Updated daily`
 - 🐱 **Breeds Discovered:** `Growing collection`  
 - 📅 **Days Active:** `Since repository creation`
-- 🔄 **Last Update:** `November 24, 2026`
+- 🔄 **Last Update:** `November 25, 2026`
 
 ---
 
@@ -127,4 +127,4 @@ If you love cats and this project, consider:
 *🔄 Next update: Tomorrow at the same time*  
 *📧 Questions? Feel free to open an issue!*
 
-<!-- Generated automatically on 2026-11-24 04:31:58 UTC | Image ID: Hxf2tUHL6 -->
+<!-- Generated automatically on 2026-11-25 03:16:45 UTC | Image ID: O2Xx5d4rV -->
